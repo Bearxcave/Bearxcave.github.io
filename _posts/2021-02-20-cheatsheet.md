@@ -12,6 +12,8 @@ tags:
 
 ### Markdown
 
+Headers
+
 ```
 # H1
 ## H2
@@ -41,9 +43,60 @@ Alt-H1
 Alt-H2
 ------
 
+Emphasis
+```
+*asterisks* _underscores_ **asterisks** __underscores__ **asterisks and _underscores_** ~~Scratch this.~~
+```
+*asterisks* _underscores_ **asterisks** __underscores__ **asterisks and _underscores_** ~~Scratch this.~~
 
+Lists
+```
 
+```
 
+Links
+```
 
+```
+
+Images
+```
+
+```
+
+Code and Syntax Highlighting
+```
+
+```
+
+Tables
+```
+
+```
+
+Blockquotes
+```
+
+```
+
+Inline HTML
+```
+
+```
+
+Horizontal Rule
+```
+
+```
+
+Line Breaks
+```
+
+```
+
+YouTube Videos
+```
+
+```
  
 
