@@ -1,13 +1,7 @@
 
-
-![](https://raw.githubusercontent.com/qiubaiying/qiubaiying.github.io/master/img/readme-home.png)
-
 [![Build Status](https://travis-ci.org/qiubaiying/qiubaiying.github.io.svg?branch=master)](https://travis-ci.org/qiubaiying/qiubaiying.github.io)
 [![codebeat badge](https://codebeat.co/badges/5f031df3-f6c1-4ec0-911a-ff6617ca50b9)](https://codebeat.co/projects/github-com-qiubaiying-qiubaiying-github-io-master)
-[![GitHub issues](https://img.shields.io/github/issues/qiubaiying/qiubaiying.github.io.svg?style=flat)](https://github.com/qiubaiying/qiubaiying.github.io/issues)
 [![License MIT](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/home-assistant/home-assistant-iOS/blob/master/LICENSE)
-[![](https://img.shields.io/github/stars/qiubaiying/qiubaiying.github.io.svg?style=social&label=Star)](https://github.com/qiubaiying/qiubaiying.github.io)
-[![](https://img.shields.io/github/forks/qiubaiying/qiubaiying.github.io.svg?style=social&label=Fork)](https://github.com/qiubaiying/qiubaiying.github.io)
 
 
 博客的搭建教程修改自 [Hux](https://github.com/Huxpro/huxpro.github.io) 
@@ -31,9 +25,6 @@
 	* [推荐标签](#featured-tags)
 	* [好友链接](#friends)
 	* [HTML5 演示文档布局](#keynote-layout)
-* 评论与 Google/Baidu Analytics
-	* [评论](#comment)
-	* [网站分析](#analytics) 
 * 高级部分
 	* [自定义](#customization)
 	* [标题底图](#header-image)
@@ -215,20 +206,6 @@ disqus_username: qiubaiying
 **使用：**
 
 参考我的这篇文章：[《为博客添加 Gitalk 评论插件》](http://qiubaiying.top/2017/12/19/%E4%B8%BA%E5%8D%9A%E5%AE%A2%E6%B7%BB%E5%8A%A0-Gitalk-%E8%AF%84%E8%AE%BA%E6%8F%92%E4%BB%B6/)
-
-
-### Analytics
-
-网站分析，现在支持百度统计和Google Analytics。需要去官方网站注册一下，然后将返回的code贴在下面：
-
-```
-# Baidu Analytics
-ba_track_id: 4cc1f2d8f3067386cc5cdb626a202900
-
-# Google Analytics
-ga_track_id: 'UA-49627206-1'            # 你用Google账号去注册一个就会给你一个这样的id
-ga_domain: huangxuan.me			# 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto。
-```
 
 ### Customization
 
