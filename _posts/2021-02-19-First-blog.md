@@ -20,6 +20,6 @@ tags:
 
 - This is an example: `target -> Build Phases`.
 
-![](https://ws3.sinaimg.cn/large/006tKfTcgy1fl3kvg0yp1j30pl0ahgov.jpg)
+![Picture](https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png)
  
 
