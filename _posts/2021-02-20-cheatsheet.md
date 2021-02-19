@@ -56,9 +56,6 @@ Lists
 ```
 1. First ordered list item
 2. Another item
-⋅⋅* Unordered sub-list. 
-1. First ordered list item
-2. Another item
 * Unordered list can use asterisks
 - Or minuses
 + Or pluses
