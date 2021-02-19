@@ -20,6 +20,13 @@ tags:
 
 - This is an example: `target -> Build Phases`.
 
+For example, to quote a picture like the Google logo, you can write
+```
+![default_description](picture_url)
+```
 ![Picture](https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png)
+
+
+Great thanks to **Hux Blog** and **BY Blog*.
  
 
