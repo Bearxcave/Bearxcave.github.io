@@ -29,6 +29,6 @@ And you get the following picture like the Google logo:
 ![Picture](https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png)
 
 
-Great thanks to **Hux Blog** and **BY Blog*.
+Great thanks to **Hux Blog** and **BY Blog**.
  
 
