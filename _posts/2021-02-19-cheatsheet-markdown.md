@@ -2,7 +2,7 @@
 layout:     post
 title:      Cheat Sheets for Markdown
 subtitle:   Markdown command
-date:       2021-02-20
+date:       2021-02-19
 author:     Bearx
 header-img: img/post-bg-grand-canyon.jpg
 catalog: true
@@ -246,4 +246,29 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 ```
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=IuqFFqrET0g" target="_blank"><img src="http://img.youtube.com/vi/IuqFFqrET0g/0.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
  
+ ### Footnote
+ ```
+ Here's a sentence with a footnote. [^1]
+
+[^1]: This is the footnote.
+```
+Here's a sentence with a footnote. [^1]
+
+[^1]: This is the footnote.
+
+### Definition List
+```
+term
+: definition
+```
+
+### Task List
+```
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
+```
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
 
