@@ -10,6 +10,8 @@ tags:
     - cheatsheet
 ---
 
+### Cheatsheet for Pandas basic
+
 ```python
 import pandas as pd
 df = pd.read_csv('data_frame.csv')
