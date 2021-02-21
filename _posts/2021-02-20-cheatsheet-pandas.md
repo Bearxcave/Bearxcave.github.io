@@ -10,3 +10,6 @@ tags:
     - cheatsheet
 ---
 
+```python
+import pandas as pd
+```
