@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      Cheat Sheets for Pandas
-subtitle:   Pandas command
-date:       2021-02-20
+title:      Cheat Sheets for Seaborn
+subtitle:   Seaborn command
+date:       2021-02-22
 author:     Bearx
 header-img: img/post-bg-grand-canyon.jpg
 catalog: true
@@ -10,25 +10,16 @@ tags:
     - cheatsheet
 ---
 
-### Cheatsheet for Pandas basic
+### Cheatsheet for Seaborn basic
 
-```python
-import pandas as pd
-df = pd.read_csv('data_frame.csv')
+Import seaborn package and set the sns theme:
+```
+import seaborn as sns
+sns.set_theme()
+```
 
-df.head()
-df.info()
-
-df['column_name'].mean()
-df['column_name'].max()
-df['column_name'].min()
-
-df['column_name'].unique()
-df['column_name'].nunique()
-
-df['column_name'].count()
-df['column_name'].value_counts().head(10)
-
-df['column_name'].apply(user_defined_func)
-df[['column_name_1','column_name_2']].corr()
+Load data and plot:
+```
+df = sns.load_dataset('data_file')
+sns.displot(df['column_name'])
 ```
