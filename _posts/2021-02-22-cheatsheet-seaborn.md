@@ -13,13 +13,13 @@ tags:
 ### Cheatsheet for Seaborn basic
 
 Import seaborn package and set the sns theme:
-```
+```python
 import seaborn as sns
 sns.set_theme()
 ```
 
 Load data and plot:
-```
+```python
 df = sns.load_dataset('data_file')
 sns.distplot(df['column_name'],kde=False,bins=30) # Deprecated in future version
 sns.displot(df['column_name']) # Use this or the following command
