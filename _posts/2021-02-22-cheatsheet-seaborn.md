@@ -28,4 +28,10 @@ sns.histplot(df['column_name'])
 sns.jointplot(x='column_1',y='column_2',data=df,kind='scatter') # Scatter joint plot
 sns.jointplot(x='column_1',y='column_2',data=df,kind='hex') # Hex joint plot
 sns.jointplot(x='column_1',y='column_2',data=df,kind='reg') # Regression joint plot
+sns.jointplot(x='column_1',y='column_2',data=df,kind='kde') # 2-D KDE joint plot
+
+sns.pairplot(df,hue='column_category',palette='coolwarm')
+
+sns.rugplot(df['column_name'])
+sns.kdeplot(df['column_name']) # Kernel Density Estimation plots
 ```
