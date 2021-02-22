@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Cheat Sheets for Pandas
+title:      Cheatsheet for Pandas
 subtitle:   Pandas command
 date:       2021-02-20
 author:     Bearx
