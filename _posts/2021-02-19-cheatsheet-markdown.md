@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Cheat Sheets for Markdown
+title:      Cheatsheet for Markdown
 subtitle:   Markdown command
 date:       2021-02-19
 author:     Bearx
