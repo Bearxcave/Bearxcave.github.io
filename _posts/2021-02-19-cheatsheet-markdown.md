@@ -117,6 +117,8 @@ alert(s);
  
 ```python
 s = "Python syntax highlighting"
+print s # Line break is needed when there is a comment at the end of line for python evironment
+
 print s
 ```
 ````
