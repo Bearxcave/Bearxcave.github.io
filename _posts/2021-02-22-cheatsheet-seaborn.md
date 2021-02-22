@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Cheat Sheets for Seaborn
+title:      Cheatsheet for Seaborn
 subtitle:   Seaborn command
 date:       2021-02-22
 author:     Bearx
