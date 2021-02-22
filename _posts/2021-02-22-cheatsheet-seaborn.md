@@ -46,4 +46,8 @@ sns.kdeplot(df['column_name']) # Kernel Density Estimation plots
 Categorical Data Plots
 ```python
 sns.barplot(x='category',y='value',data=df,estimator=np.std)
+sns.countplot(x='category',data = df) # count the number
+
+
+
 ```
