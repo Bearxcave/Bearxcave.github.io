@@ -21,8 +21,9 @@ sns.set_theme()
 Load data and plot:
 ```python
 df = sns.load_dataset('data_file')
-sns.distplot(df['column_name'],kde=False,bins=30) # Deprecated in future version\
-sns.displot(df['column_name']) # Use this or the following command \
+sns.distplot(df['column_name'],kde=False,bins=30) # Deprecated in future version
+
+sns.displot(df['column_name']) # Use this or the following command \\
 sns.histplot(df['column_name'])
 
 sns.jointplot(x='column_1',y='column_2',data=df,kind='scatter') # Scatter joint plot  
