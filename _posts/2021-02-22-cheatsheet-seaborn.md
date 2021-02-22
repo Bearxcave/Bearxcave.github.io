@@ -36,3 +36,8 @@ sns.pairplot(df,hue='column_category',palette='coolwarm')
 sns.rugplot(df['column_name'])
 sns.kdeplot(df['column_name']) # Kernel Density Estimation plots
 ```
+
+Categorical Data Plots
+```python
+sns.barplot(x='category',y='value',data=df)
+```
