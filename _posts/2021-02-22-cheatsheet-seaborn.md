@@ -21,7 +21,8 @@ sns.set_style('white') # ticks, whitegrid, darkgrid, ...
 
 Load data and plot:
 ```python
-df = sns.load_dataset('data_file')
+df = sns.load_dataset('data_file') # load dataset examples from sns online source
+
 sns.distplot(df['column_name'],kde=False,bins=30) # Deprecated in future version
 
 sns.displot(df['column_name']) # Use this or the following command
