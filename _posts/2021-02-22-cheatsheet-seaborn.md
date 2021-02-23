@@ -45,7 +45,6 @@ sns.kdeplot(df['column_name']) # Kernel Density Estimation plots
 
 Categorical Data Plots
 ```python
-### haha
 sns.barplot(x='category',y='value',data=df,estimator=np.std)
 sns.countplot(x='category',data = df) # count the number
 
@@ -55,4 +54,13 @@ sns.stripplot(x="category_1",y="value",data=df,hue='category_2',jitter=True,pale
 sns.swarmplot(x="category_1",y="value",data=df,hue='category_2',split=True,palette='Set1')
 
 sns.factorplot(x='category_1',y='value',data=df,kind='bar') # kind can be any other plot type
+```
+
+Matrix plot
+```python
+pvdf = df.pivot_table(values='passengers',index='month',columns='year') # make a pivot table from a data frame
+
+
+sns.heatmap(df.corr(),cmap='coolwarm',annot=True)
+sns.clustermap(pvdf,cmap='coolwarm',standard_scale=1) # hierarchal clustering to produce a clustered version of the heatmap
 ```
