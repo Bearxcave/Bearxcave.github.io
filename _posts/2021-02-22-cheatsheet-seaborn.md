@@ -49,8 +49,10 @@ Categorical Data Plots
 sns.barplot(x='category',y='value',data=df,estimator=np.std)
 sns.countplot(x='category',data = df) # count the number
 
-
 sns.boxplot(x='category_1',y='value',data=df,hue='category_2',palette='rainbow')
-
 sns.violinplot(x="category_1",y="value",data=df,hue='category_2',split=True,palette='Set1')
+sns.stripplot(x="category_1",y="value",data=df,hue='category_2',jitter=True,palette='Set1')
+sns.swarmplot(x="category_1",y="value",data=df,hue='category_2',split=True,palette='Set1')
+
+sns.factorplot(x='category_1',y='value',data=df,kind='bar') # kind can be any other plot type
 ```
