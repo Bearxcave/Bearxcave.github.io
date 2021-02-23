@@ -16,6 +16,7 @@ Import seaborn package and set the sns theme:
 ```python
 import seaborn as sns
 sns.set_theme()
+sns.set_style('white') # ticks, whitegrid, darkgrid, ...
 ```
 
 Load data and plot:
@@ -63,4 +64,27 @@ pvdf = df.pivot_table(values='passengers',index='month',columns='year') # make a
 
 sns.heatmap(df.corr(),cmap='coolwarm',annot=True)
 sns.clustermap(pvdf,cmap='coolwarm',standard_scale=1) # hierarchal clustering to produce a clustered version of the heatmap
+```
+
+Grid
+```python
+g = sns.PairGrid(df)
+g.map_diag(plt.hist)
+g.map_upper(plt.scatter)
+g.map_lower(sns.kdeplot)
+
+g = sns.FacetGrid(df,col='category_1',row='category_2',hue='category_3')
+g = g.map(plt.hist,'value_1'[,'value_2']).add_legend() # create grids of plots based off of a feature:
+```
+
+Regression plot
+```python
+sns.lmplot(x='category_1',y='category_2',data=df,hue='category_3',palette='coolwarm',markers=['o','v'],scatter_kws={'s':100})
+```
+
+Style and color
+```python
+sns.despine(left=True, bottom=True) # remove the spines (default remove top & right)
+
+sns.set_context('poster',font_scale=4) # override default parameters
 ```
