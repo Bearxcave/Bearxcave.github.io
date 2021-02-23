@@ -32,3 +32,8 @@ df['column_name'].value_counts().head(10)
 df['column_name'].apply(user_defined_func)
 df[['column_name_1','column_name_2']].corr()
 ```
+
+Built-in data visualization
+```python
+
+```
