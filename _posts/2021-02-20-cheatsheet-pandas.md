@@ -12,6 +12,7 @@ tags:
 
 ### Cheatsheet for Pandas basic
 
+Basic operation on Pandas dataframe:
 ```python
 import pandas as pd
 df = pd.read_csv('data_frame.csv')
@@ -35,5 +36,15 @@ df[['column_name_1','column_name_2']].corr()
 
 Built-in data visualization
 ```python
+df['column_name'].hist(bins=30) # or
 
+df['column_name'].plot(kind='hist',bins=30) # or
+
+df['column_name'].plot.hist(bins=30)
+
+# Area plot
+
+df['column_name'].plot.area(alpha=0.5)
+
+# 
 ```
