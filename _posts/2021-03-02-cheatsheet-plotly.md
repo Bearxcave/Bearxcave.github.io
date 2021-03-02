@@ -49,6 +49,7 @@ df.scatter_matrix()
 ```
 
 ### Plotly provides various plotting methods for geographical plotting
+Initialization:
 ```python
 import chart_studio.plotly as py
 import plotly.graph_objs as go 
@@ -86,3 +87,5 @@ data = dict(type = 'choropleth',
 layout = dict(geo = {'scope':'usa'})
 choromap = go.Figure(data = [data],layout = layout)
 ```
+
+For more details, please refer to [Plotly chropleth](https://plotly.com/python/reference/#choropleth).
