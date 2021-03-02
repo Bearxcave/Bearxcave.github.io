@@ -43,7 +43,7 @@ axs[0,0].remove() # for 3D plot
 
 axs[0,0]=fig.add_subplot(3,2,1,projection='3d')
 ppp1 = axs[0,0].plot_surface(x, y, z, cmap='coolwarm', linewidth=0, antialiased=False, vmin = -1, vmax = 1)
-ax[0,0].set_ylim(-1, 1)
+axs[0,0].set_ylim(-1, 1)
 axs[0,0].view_init(elev=0., azim=-90.)
 axs[0,0].dist = 7.
 ppp1.set_clim(0,1)
@@ -54,11 +54,11 @@ fig.colorbar(ppp1, ax=axs[0,0])
 mask_array = np.ma.array(matrix_plotted, mask=np.isnan(data) , dtype=np.float).T
 cmap = mpl.cm.get_cmap()
 cmap.set_bad(color='red')
-ax[1,0].imshow(mask_array, cmap='hot')
-ax[1,0].set_xticks(tick_list)
-ax[1,0].set_title('Here is the title')
+axs[1,0].imshow(mask_array, cmap='hot')
+axs[1,0].set_xticks(tick_list)
+axs[1,0].set_title('Here is the title')
 
-ax[2,0].scatter(x, y, c=z, cmap='hsv', s=marker_size)
+axs[2,0].scatter(x, y, c=z, cmap='hsv', s=marker_size)
 
 plt.text(0.3, 0.7, 'Text here',color='r')
 plt.grid()
