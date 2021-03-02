@@ -100,9 +100,8 @@ data = dict(type = 'choropleth',
             text = df['COUNTRY'],
             colorbar = {'title' : 'Here is colorbar title'})
 layout = dict(title = '2014 Global GDP',
-         geo = dict(
-             showframe = True,
-             projection = {'type':'natural earth'}) # or mercator
+              geo = dict(showframe = True,
+                         projection = {'type':'natural earth'}) # or mercator
 )
 ```
 
