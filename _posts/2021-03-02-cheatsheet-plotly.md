@@ -18,13 +18,9 @@ Initialize Plotly in this way:
 ```python
 import pandas as pd
 import numpy as np
-# import chart_studio.plotly as py
 
 import cufflinks as cf
-
-from plotly import __version__
 from plotly.offline import download_plotlyjs, init_notebook_mode, plot, iplot
-
 init_notebook_mode(connected=True)
 cf.go_offline()
 ```
@@ -50,4 +46,12 @@ df.iplot(kind='surface',colorscale='rdylbu')
 One more plotting method, `scatter_matrix()`, is similar to `sns.pairplot()`:
 ```python
 df.scatter_matrix()
+```
+
+### Plotly provides various plotting methods for geographical plotting
+```python
+import chart_studio.plotly as py
+import plotly.graph_objs as go 
+from plotly.offline import download_plotlyjs, init_notebook_mode, plot, iplot
+init_notebook_mode(connected=True) 
 ```
