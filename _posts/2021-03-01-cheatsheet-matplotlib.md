@@ -14,10 +14,11 @@ tags:
 
 Configuration for a single plot:
 ```python
-plt.plot(data_x, data_y, 'k.-')
+plt.plot(data_x, data_y, 'k.-', markersize=10, lw=2)
 
 plt.grid(True)
 plt.ylim(y_min, y_max)
+plt.ylabel(r'$\varrho(t)$')
 plt.title('Here is the title')
 fig = plt.gcf()
 fig.set_size_inches(14, 5)
@@ -33,20 +34,26 @@ ax2 = fig.add_subplot(212)
 # Or initialize in this way:
 
 
-fig, ax = plt.subplots(1, 2, gridspec_kw={'width_ratios': [2, 5]})
-pp1 = ax[0].imshow(matrix_plotted, cmap='hot')
-pp2 = ax[1].scatter(x, y, c=v, cmap='hsv', s=marker_size)
-
-ax[0].set_ylim(-1, 1)
-ax[1].set_xticks(tick_list)
-ax[1].set_title('Here is the title')
-plt.grid(True)
-
-pp1.set_clim(0,1)
-pp2.set_clim(0,1)
-plt.colorbar(pp1)
-
+fig, axs = plt.subplots(3, 2,   gridspec_kw={'width_ratios': [2, 5]})
 fig.set_size_inches(14, 10)
-plt.show()
 
+axs[0,0].remove() # for 3D plot
+
+axs[0,0]=fig.add_subplot(3,2,1,projection='3d')
+ppp1 = axs[0,0].plot_surface(x, y, z, cmap='coolwarm', linewidth=0, antialiased=False, vmin = -1, vmax = 1)
+ax[0,0].set_ylim(-1, 1)
+axs[0,0].view_init(elev=0., azim=-90.)
+axs[0,0].dist = 7.
+ppp1.set_clim(0,1)
+fig.colorbar(ppp1, ax=axs[0,0])
+
+ax[1,0].imshow(matrix_plotted, cmap='hot')
+ax[1,0].set_xticks(tick_list)
+ax[1,0].set_title('Here is the title')
+
+ax[2,0].scatter(x, y, c=z, cmap='hsv', s=marker_size)
+
+plt.text(0.3, 0.7, 'Text here',color='r')
+plt.grid()
+plt.show()
 ```
