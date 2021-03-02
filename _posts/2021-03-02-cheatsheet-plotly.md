@@ -35,6 +35,7 @@ Possible plotting methods using Plotly:
 * surface
 * histogram
 * bubble
+
 Here is some examples:
 ```python
 df.iplot(kind='scatter',x='A',y='B',mode='markers',size=10)
