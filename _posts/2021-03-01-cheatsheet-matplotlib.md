@@ -38,9 +38,8 @@ pp1 = ax[0].imshow(matrix_plotted, cmap='hot')
 pp2 = ax[1].scatter(x, y, c=v, cmap='hsv', s=marker_size)
 
 ax[0].set_ylim(-1, 1)
-ax[1].set_xticks(np.array(range(NP))*ND2-0.5)
-ax[1].set_yticks(np.array(range(NP))*ND2-0.5)
-ax[1].set_title('t='+'%5.4f'%(t_history[t_index]))
+ax[1].set_xticks(tick_list)
+ax[1].set_title('Here is the title')
 plt.grid(True)
 
 pp1.set_clim(0,1)
