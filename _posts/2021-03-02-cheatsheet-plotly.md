@@ -55,3 +55,20 @@ import plotly.graph_objs as go
 from plotly.offline import download_plotlyjs, init_notebook_mode, plot, iplot
 init_notebook_mode(connected=True) 
 ```
+
+We need to begin to build our data dictionary. Easiest way to do this is to use the **dict()** function of the general form:
+
+* type = 'choropleth',
+* locations = list of states
+* locationmode = 'USA-states'
+* colorscale= 
+
+Either a predefined string:
+
+    'pairs' | 'Greys' | 'Greens' | 'Bluered' | 'Hot' | 'Picnic' | 'Portland' | 'Jet' | 'RdBu' | 'Blackbody' | 'Earth' | 'Electric' | 'YIOrRd' | 'YIGnBu'
+
+or create a [custom colorscale](https://plot.ly/python/heatmap-and-contour-colorscales/)
+
+* text= list or array of text to display per point
+* z= array of values on z axis (color of state)
+* colorbar = {'title':'Colorbar Title'})
