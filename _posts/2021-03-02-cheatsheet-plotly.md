@@ -88,4 +88,4 @@ layout = dict(geo = {'scope':'usa'})
 choromap = go.Figure(data = [data],layout = layout)
 ```
 
-For more details, please refer to [Plotly chropleth](https://plotly.com/python/reference/#choropleth).
+For more details, please refer to [Plotly choropleth](https://plotly.com/python/reference/#choropleth).
