@@ -22,6 +22,8 @@ plt.ylabel(r'$\varrho(t)$')
 plt.title('Here is the title')
 fig = plt.gcf()
 fig.set_size_inches(14, 5)
+plt.rcParams['figure.dpi'] = 200
+plt.rcParams['figure.figsize'] = 5, 2
 plt.show()
 ```
 
@@ -47,7 +49,12 @@ axs[0,0].dist = 7.
 ppp1.set_clim(0,1)
 fig.colorbar(ppp1, ax=axs[0,0])
 
-ax[1,0].imshow(matrix_plotted, cmap='hot')
+# set up a mask on the plotted matrix
+
+mask_array = np.ma.array(matrix_plotted, mask=np.isnan(data) , dtype=np.float).T
+cmap = mpl.cm.get_cmap()
+cmap.set_bad(color='red')
+ax[1,0].imshow(mask_array, cmap='hot')
 ax[1,0].set_xticks(tick_list)
 ax[1,0].set_title('Here is the title')
 
@@ -56,4 +63,11 @@ ax[2,0].scatter(x, y, c=z, cmap='hsv', s=marker_size)
 plt.text(0.3, 0.7, 'Text here',color='r')
 plt.grid()
 plt.show()
+```
+
+If you want to clear and update the plot during a loop, use `clear_output()`:
+```python
+from IPython.display import clear_output
+
+clear_output()
 ```
