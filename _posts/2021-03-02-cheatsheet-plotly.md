@@ -74,7 +74,7 @@ or create a [custom colorscale](https://plot.ly/python/heatmap-and-contour-color
 * z= array of values on z axis (color of state)
 * colorbar = {'title':'Colorbar Title'})
 
-Here is a short example:
+Here are two short examples:
 ```python
 data = dict(type = 'choropleth',
             locations = ['AZ','CA','NY'],
@@ -83,9 +83,27 @@ data = dict(type = 'choropleth',
             text= ['text1','text2','text3'],
             z=[1.0,2.0,3.0],
             colorbar = {'title':'Colorbar Title'})
-
-layout = dict(geo = {'scope':'usa'})
+            
+layout = dict(title = '2011 US Agriculture Exports by State',
+              geo = dict(scope='usa',
+                         showlakes = True,
+                         lakecolor = 'rgb(160,90,240)')
+             )
 choromap = go.Figure(data = [data],layout = layout)
+iplot(choromap)
+```
+or
+```python
+data = dict(type = 'choropleth',
+            locations = df['CODE'],
+            z = df['GDP (BILLIONS)'],
+            text = df['COUNTRY'],
+            colorbar = {'title' : 'Here is colorbar title'})
+layout = dict(title = '2014 Global GDP',
+         geo = dict(
+             showframe = True,
+             projection = {'type':'natural earth'}) # or mercator
+)
 ```
 
 For more details, please refer to [Plotly choropleth](https://plotly.com/python/reference/#choropleth).
