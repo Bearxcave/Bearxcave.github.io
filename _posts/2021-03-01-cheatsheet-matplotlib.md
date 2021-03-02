@@ -22,6 +22,8 @@ plt.ylabel(r'$\varrho(t)$')
 plt.title('Here is the title')
 fig = plt.gcf()
 fig.set_size_inches(14, 5)
+# Or in this way
+
 plt.rcParams['figure.dpi'] = 200
 plt.rcParams['figure.figsize'] = 5, 2
 plt.show()
