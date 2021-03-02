@@ -73,6 +73,7 @@ or create a [custom colorscale](https://plot.ly/python/heatmap-and-contour-color
 * z= array of values on z axis (color of state)
 * colorbar = {'title':'Colorbar Title'})
 
+Here is a short example:
 ```python
 data = dict(type = 'choropleth',
             locations = ['AZ','CA','NY'],
