@@ -34,7 +34,7 @@ df['column_name'].apply(user_defined_func)
 df[['column_name_1','column_name_2']].corr()
 ```
 
-Built-in data visualization
+Built-in data visualization:
 ```python
 df['column_name'].hist(bins=30) # or
 
@@ -45,6 +45,17 @@ df['column_name'].plot.hist(bins=30)
 # Area plot
 
 df['column_name'].plot.area(alpha=0.5)
-
-# 
 ```
+
+Here it lists most types of the built-in data plot methods:
+- df.plot.area
+- df.plot.barh
+- df.plot.density
+- df.plot.hist
+- df.plot.line
+- df.plot.scatter
+- df.plot.bar
+- df.plot.box
+- df.plot.hexbin
+- df.plot.kde
+- df.plot.pie
