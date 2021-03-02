@@ -102,7 +102,7 @@ data = dict(type = 'choropleth',
 layout = dict(title = '2014 Global GDP',
               geo = dict(showframe = True,
                          projection = {'type':'natural earth'}) # or mercator
-)
+           )
 ```
 
 For more details, please refer to [Plotly choropleth](https://plotly.com/python/reference/#choropleth).
