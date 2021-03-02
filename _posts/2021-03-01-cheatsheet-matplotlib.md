@@ -16,6 +16,7 @@ Configuration for a single plot:
 ```python
 plt.style.use('ggplot') # style can be 'default', 'classic', 'ggplot', 'seaborn', etc (see https://matplotlib.org/stable/gallery/style_sheets/style_sheets_reference.html)
 
+
 plt.plot(data_x, data_y, 'k.-', markersize=10, lw=2)
 
 plt.grid(True)
