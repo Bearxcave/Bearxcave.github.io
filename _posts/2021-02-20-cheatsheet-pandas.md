@@ -32,6 +32,9 @@ df['column_name'].value_counts().head(10)
 
 df['column_name'].apply(user_defined_func)
 df[['column_name_1','column_name_2']].corr()
+
+df.groupby(['column_name_1']).mean()
+df.groupby(by =['column_name_1', 'column_name_2']).count()['column_name_3'].unstack()
 ```
 
 Built-in data visualization:
