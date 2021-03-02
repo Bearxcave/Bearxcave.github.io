@@ -23,6 +23,7 @@ plt.grid(True)
 plt.ylim(y_min, y_max)
 plt.ylabel(r'$\varrho(t)$')
 plt.title('Here is the title')
+plt.legend(loc='center left',bbox_to_anchor=(1.0,0.5))
 fig = plt.gcf()
 fig.set_size_inches(14, 5)
 # Or in this way
