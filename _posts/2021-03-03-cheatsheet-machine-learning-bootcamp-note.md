@@ -37,13 +37,7 @@ Regression error metrics:
 * Mean absolute error (MAE): easy to be affected by large errors
 * Mean square error (MSE): 
 
-Scikit-learn, machine learning with python:
-
-```python
-from sklearn.family import Model
-```
-
-![sklearn cheatsheet](../img/cheatsheet/cheat%20sheet%20scikit-learn.pdf)
+Cheatsheet for Scikit-learn: [sklearn cheatsheet](../img/cheatsheet/cheat%20sheet%20scikit-learn.pdf)
 
 ### Linear regression
 
