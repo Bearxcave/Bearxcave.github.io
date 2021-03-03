@@ -38,7 +38,7 @@ Possible plotting methods using Plotly:
 * histogram
 * bubble
 
-Here is some examples:
+Here are some examples:
 ```python
 df.iplot(kind='scatter',x='A',y='B',mode='markers',size=10)
 
