@@ -40,6 +40,11 @@ Regression error metrics:
 
 Cheatsheet for Scikit-learn: [sklearn cheatsheet](../img/cheatsheet/cheat%20sheet%20scikit-learn.pdf)
 
+Bias variance trade-off:
+
+* underfitting: high bias, low variance
+* overfitting: low bias, high variance
+
 ### Linear regression
 
 ### Logistic regression
