@@ -17,3 +17,5 @@ Data is often split into 3 sets:
 * Training data
 * Validation data
 * Test data
+
+Make clear about your classification metrics.
