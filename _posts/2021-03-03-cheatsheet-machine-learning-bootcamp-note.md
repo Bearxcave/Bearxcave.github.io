@@ -18,7 +18,7 @@ Data is often split into 3 sets:
 * Validation data
 * Test data
 
-Make clear about your classification metrics:
+Classification error metrics:
 
 * Accuracy
 * Recall
@@ -32,6 +32,16 @@ Confusion matrix:
 | Condition positive | True positive (TP)  | False negative (FN) |
 | Condition negative | False positive (FP) | True negative (TN)  |
 
+Regression error metrics:
+
+* Mean absolute error (MAE): easy to be affected by large errors
+* Mean square error (MSE): 
+
+Scikit-learn, machine learning with python:
+
+```python
+from sklearn.family import Model
+```
+
 ### Linear regression
 
-Mean absolute error (MAE): easy to be affected by large errors
