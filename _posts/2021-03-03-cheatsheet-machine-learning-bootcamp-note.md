@@ -43,7 +43,7 @@ Scikit-learn, machine learning with python:
 from sklearn.family import Model
 ```
 
-![sklearn cheatsheet](../img/cheatsheet/cheat%20sheet%20scikit-learn.pdf)
+![sklearn cheatsheet](../img/cheatsheet/cheat%20sheet%20scikit-learn.png)
 
 ### Linear regression
 
