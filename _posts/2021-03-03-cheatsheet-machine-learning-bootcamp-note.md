@@ -10,7 +10,7 @@ tags:
     - machine learning
 ---
 
-### Linear regression
+### Basic
 
 Data is often split into 3 sets:
 
@@ -31,3 +31,7 @@ Confusion matrix:
 |:------------------:|:-------------------:|:-------------------:|
 | Condition positive | True positive (TP)  | False negative (FN) |
 | Condition negative | False positive (FP) | True negative (TN)  |
+
+### Linear regression
+
+Mean absolute error (MAE): easy to be affected by large errors
