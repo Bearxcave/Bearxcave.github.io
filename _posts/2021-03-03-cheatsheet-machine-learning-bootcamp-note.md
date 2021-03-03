@@ -42,3 +42,5 @@ Cheatsheet for Scikit-learn: [sklearn cheatsheet](../img/cheatsheet/cheat%20shee
 
 ### Linear regression
 
+### Logistic regression
+
