@@ -21,9 +21,10 @@ import numpy as np
 
 # import plotly
 
-import cufflinks as cf
 from plotly.offline import download_plotlyjs, init_notebook_mode, plot, iplot
 init_notebook_mode(connected=True)
+
+import cufflinks as cf
 cf.go_offline()
 ```
 
