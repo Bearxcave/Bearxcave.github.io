@@ -18,4 +18,9 @@ Data is often split into 3 sets:
 * Validation data
 * Test data
 
-Make clear about your classification metrics.
+Make clear about your classification metrics:
+
+* Accuracy
+* Recall
+* Precision
+* F1-Score : $2 \frac{\mathrm{precision}*\mathrm{recall}}{\mathrm{precision}+\mathrm{recall}}$
