@@ -37,6 +37,7 @@ Possible plotting methods using Plotly:
 * surface
 * histogram
 * bubble
+* candle (must specify 'Open','High','Low','Close' of the data)
 
 Here are some examples:
 ```python
@@ -49,6 +50,11 @@ df.iplot(kind='surface',colorscale='rdylbu')
 One more plotting method, `scatter_matrix()`, is similar to `sns.pairplot()`:
 ```python
 df.scatter_matrix()
+```
+
+Other miscellaneous plotting methods:
+```python
+df.ta_plot(study='sma')
 ```
 
 ### Plotly provides various plotting methods for geographical plotting
