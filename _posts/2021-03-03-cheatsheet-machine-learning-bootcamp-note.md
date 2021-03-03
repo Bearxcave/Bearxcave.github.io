@@ -24,3 +24,10 @@ Make clear about your classification metrics:
 * Recall
 * Precision
 * F1-Score : $2 \frac{\mathrm{precision}*\mathrm{recall}}{\mathrm{precision}+\mathrm{recall}}$
+
+Confusion matrix:
+
+|                    | Prediction positive | Prediction negative |
+|:------------------:|:-------------------:|:-------------------:|
+| Condition positive | True positive (TP)  | False negative (FN) |
+| Condition negative | False positive (FP) | True negative (TN)  |
