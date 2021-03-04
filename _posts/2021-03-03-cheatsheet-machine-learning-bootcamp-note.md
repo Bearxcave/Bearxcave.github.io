@@ -49,3 +49,16 @@ Bias variance trade-off:
 
 ### Logistic regression
 
+### K-nearest network (KNN)
+
+Training algorithm:
+
+1. Store all the data
+
+Prediction algorithm:
+
+1. Calculate the distance from x to all points in the data
+2. Sort the distances
+3. Predict the majority label of the "k" closest points
+
+
