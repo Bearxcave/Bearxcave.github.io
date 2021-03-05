@@ -61,4 +61,6 @@ Prediction algorithm:
 2. Sort the distances
 3. Predict the majority label of the "k" closest points
 
+### Tree methods
+
 
