@@ -63,4 +63,9 @@ Prediction algorithm:
 
 ### Tree methods
 
+* Decision Tree
+* Random forest
+
+### Support Vector Machine (SVM)
+
 
