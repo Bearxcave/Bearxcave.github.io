@@ -97,5 +97,7 @@ Two most common types:
 
 ### Natural Language Processing (NLP)
 
+Bag of Words: Document represented as a vector of word counts
+
 ### Neural Nets and Deep Learning
 
