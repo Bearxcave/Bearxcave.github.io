@@ -10,6 +10,11 @@ tags:
     - machine learning
 ---
 
+### List of PDF cheatsheets
+
+* pandas: [pandas](../img/cheatsheet/cheat%20sheet%20pandas.pdf)
+* scikit-learn: [sklearn](../img/cheatsheet/cheat%20sheet%20scikit-learn.pdf)
+
 ### Basic
 
 Data is often split into 3 sets:
@@ -37,8 +42,6 @@ Regression error metrics:
 * Mean absolute error (MAE): easy to be affected by large errors
 * Mean square error (MSE)
 * Root Mean Squared Error (RMSE)
-
-Cheatsheet for Scikit-learn: [sklearn cheatsheet](../img/cheatsheet/cheat%20sheet%20scikit-learn.pdf)
 
 Bias variance trade-off:
 
