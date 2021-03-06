@@ -84,6 +84,6 @@ Algorithm:
 
 Elbow method (to estimate K):
 
-1. Compute the sum of squared error (SSE) for a list of K's: $ W(C_k) = \frac{1}{\mid C_k \mid} \sum_{i,i'\in C_k} \mid x_{ij}-x_{i'j} \mid^2 $, where $ C_k $ is denotes the number of observations in the *k*th cluster
+1. Compute the sum of squared error (SSE) for a list of K's: $ W(C_k) = \frac{1}{\mid C_k \mid} \sum_{i,i'\in C_k} \mid x_i - x_{i'} \mid^2 $, where $ C_k $ is denotes the number of observations in the *k*th cluster
 2. Plot SSE against K, and figure the elbow point
 
