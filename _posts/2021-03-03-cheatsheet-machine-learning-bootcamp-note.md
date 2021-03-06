@@ -91,6 +91,10 @@ Elbow method (to estimate K):
 
 ### Recommender System
 
+Two most common types:
+1. Content-Based
+2. Collaborative Filtering (CF)
+
 ### Natural Language Processing (NLP)
 
 ### Neural Nets and Deep Learning
