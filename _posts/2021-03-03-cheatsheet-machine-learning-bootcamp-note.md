@@ -82,3 +82,8 @@ Algorithm:
     * For each cluster, compute the cluster centroid by taking the mean vector of points in the cluster
     * Assign each point to the cluster for which the centroid is the closest
 
+Elbow method (to estimate K):
+
+1. Compute the sum of squared error (SSE) for a list of K's: $W(C_k) = \frac{1}{|C_k|} \sum_{i,i'\in C_k} \sum_{j=1}^p (x_{ij}-x{i'j})^2$
+2. Plot SSE against K, and figure the elbow point
+
