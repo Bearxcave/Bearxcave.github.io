@@ -105,7 +105,15 @@ Term Frequency - Inverse Document Frequency (TF-IDF):
     - D = Total number of documents
     - t = Numbers of documents with the term
 
-
+Process:
+1. Data Visualization
+2. Text Pre-processing
+3. Continuing Normalization
+4. Vectorization
+5. Training a model
+6. Model Evaluation
+7. Train Test Split
+8. Creating a Data Pipeline
 
 ### Neural Nets and Deep Learning
 
