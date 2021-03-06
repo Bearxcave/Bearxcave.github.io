@@ -84,6 +84,6 @@ Algorithm:
 
 Elbow method (to estimate K):
 
-1. Compute the sum of squared error (SSE) for a list of K's: \\( W(C_k) = \frac{1}{\mathrm{abs}(C_k)} \sum_{i,i'\in C_k} \sum_{j=1}^p (x_{ij}-x_{i'j})^2 \\)
+1. Compute the sum of squared error (SSE) for a list of K's: $ W(C_k) = \frac{1}{\mathrm{abs}(C_k)} \sum_{i,i'\in C_k} \sum_{j=1}^p (x_{ij}-x_{i'j})^2 $
 2. Plot SSE against K, and figure the elbow point
 
