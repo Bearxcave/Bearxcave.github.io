@@ -99,5 +99,13 @@ Two most common types:
 
 Bag of Words: Document represented as a vector of word counts
 
+Term Frequency - Inverse Document Frequency (TF-IDF): 
+1. TF(d,t): Numbers of occurences of term t in document d -> Importance of the term within that document
+2. IDF(t)=log(D/t): -> Importance of the term in the corpus
+    - D = Total number of documents
+    - t = Numbers of documents with the term
+
+
+
 ### Neural Nets and Deep Learning
 
