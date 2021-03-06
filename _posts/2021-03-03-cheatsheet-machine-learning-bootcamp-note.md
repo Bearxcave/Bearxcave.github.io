@@ -72,4 +72,13 @@ Prediction algorithm:
 
 ### Support Vector Machine (SVM)
 
+### K Means Clustering
+
+Algorithm:
+
+1. Choose a number of Clusters "K"
+2. Randomly assign each point to a cluster
+3. Repeat the following until converged:
+    * For each cluster, compute the cluster centroid by taking the mean vector of points in the cluster
+    * Assign each point to the cluster for which the centroid is the closest
 
