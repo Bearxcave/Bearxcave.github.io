@@ -13,6 +13,7 @@ tags:
 ### List of PDF cheatsheets
 
 * pandas: [pandas](../img/cheatsheet/cheat%20sheet%20pandas.pdf)
+* plotly: [plotly](../img/cheatsheet/cheat%20sheet%20plotly.pdf)
 * scikit-learn: [sklearn](../img/cheatsheet/cheat%20sheet%20scikit-learn.pdf)
 
 ### Basic
