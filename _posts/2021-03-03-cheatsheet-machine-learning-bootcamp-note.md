@@ -49,11 +49,11 @@ Bias variance trade-off:
 * underfitting: high bias, low variance
 * overfitting: low bias, high variance
 
-### Linear regression
+### Linear Regression
 
-### Logistic regression
+### Logistic Regression
 
-### K-nearest network (KNN)
+### K-Nearest Network (KNN)
 
 Training algorithm:
 
@@ -65,7 +65,7 @@ Prediction algorithm:
 2. Sort the distances
 3. Predict the majority label of the "k" closest points
 
-### Tree methods
+### Tree Methods
 
 * Decision Tree
 * Random forest
@@ -86,4 +86,12 @@ Elbow method (to estimate K):
 
 1. Compute the sum of squared error (SSE) for a list of K's: $ W(C_k) = \frac{1}{\mid C_k \mid} \sum_{i,i'\in C_k} \mid x_i - x_{i'} \mid^2 $, where $ C_k $ is denotes the number of observations in the *k*th cluster
 2. Plot SSE against K, and figure out the elbow point
+
+### Principal Component Analysis (PCA)
+
+### Recommender System
+
+### Natural Language Processing (NLP)
+
+### Neural Nets and Deep Learning
 
