@@ -118,3 +118,9 @@ Process:
 ### Neural Nets and Deep Learning
 
 Perceptron model
+
+Activation functions:
+1. Step function
+2. Sigmoid function (Logistic function)
+3. Hyperbolic function
+4. Rectified Linear unit (ReLu)
