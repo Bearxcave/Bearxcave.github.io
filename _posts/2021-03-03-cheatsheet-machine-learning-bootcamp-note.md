@@ -117,3 +117,4 @@ Process:
 
 ### Neural Nets and Deep Learning
 
+Perceptron model
