@@ -126,4 +126,6 @@ Activation functions:
 4. Rectified Linear unit (ReLu)
 
 Multi-Class activation functions:
-1. 
+
+
+### Big Data and Spark
