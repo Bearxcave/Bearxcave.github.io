@@ -12,9 +12,15 @@ tags:
 
 ### List of PDF cheatsheets
 
+* python: [python](../img/cheatsheet/cheat%20sheet%20python.pdf)
+* importing data: [importing](../img/cheatsheet/cheat%20sheet%20importing%20data.pdf)
 * pandas: [pandas](../img/cheatsheet/cheat%20sheet%20pandas.pdf)
 * plotly: [plotly](../img/cheatsheet/cheat%20sheet%20plotly.pdf)
+* ggplot2: [ggplot2](../img/cheatsheet/cheat%20sheet%20ggplot2.pdf)
 * scikit-learn: [sklearn](../img/cheatsheet/cheat%20sheet%20scikit-learn.pdf)
+* keras: [keras](../img/cheatsheet/cheat%20sheet%20keras.pdf)
+* PySpark: [PySpark](../img/cheatsheet/cheat%20sheet%20PySpark.pdf)
+* spaCy: [spaCy](../img/cheatsheet/cheat%20sheet%20spaCy.pdf)
 
 ### Basic
 
