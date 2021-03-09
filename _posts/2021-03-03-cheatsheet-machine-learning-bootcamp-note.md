@@ -125,11 +125,11 @@ Process:
 
 Perceptron model
 
-Activation functions:
-1. Step function
-2. Sigmoid function (Logistic function)
-3. Hyperbolic function
-4. Rectified Linear unit (ReLu)
+Activation functions and their pros & cons:
+1. Step function:
+2. Sigmoid function (Logistic function):
+3. Hyperbolic function:
+4. Rectified Linear unit (ReLu):
 
 Multi-Class activation functions:
 
