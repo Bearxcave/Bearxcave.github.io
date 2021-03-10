@@ -12,15 +12,15 @@ tags:
 
 ### List of PDF cheatsheets (only in git repo)
 
-* python: [python](../img/cheatsheet/cheat%20sheet%20python.pdf)
-* importing data: [importing](../img/cheatsheet/cheat%20sheet%20importing%20data.pdf)
-* pandas: [pandas](../img/cheatsheet/cheat%20sheet%20pandas.pdf)
-* plotly: [plotly](../img/cheatsheet/cheat%20sheet%20plotly.pdf)
-* ggplot2: [ggplot2](../img/cheatsheet/cheat%20sheet%20ggplot2.pdf)
-* scikit-learn: [sklearn](../img/cheatsheet/cheat%20sheet%20scikit-learn.pdf)
-* keras: [keras](../img/cheatsheet/cheat%20sheet%20keras.pdf)
-* PySpark: [PySpark](../img/cheatsheet/cheat%20sheet%20PySpark.pdf)
-* spaCy: [spaCy](../img/cheatsheet/cheat%20sheet%20spaCy.pdf)
+* python: [python](https://github.com/bearxcave/bearxcave.github.io/blob/master/img/cheatsheet/cheat%20sheet%20python.pdf)
+* importing data: [importing](https://github.com/bearxcave/bearxcave.github.io/blob/master/img/cheatsheet/cheat%20sheet%20importing%20data.pdf)
+* pandas: [pandas](https://github.com/bearxcave/bearxcave.github.io/blob/master/img/cheatsheet/cheat%20sheet%20pandas.pdf)
+* plotly: [plotly](https://github.com/bearxcave/bearxcave.github.io/blob/master/img/cheatsheet/cheat%20sheet%20plotly.pdf)
+* ggplot2: [ggplot2](https://github.com/bearxcave/bearxcave.github.io/blob/master/img/cheatsheet/cheat%20sheet%20ggplot2.pdf)
+* scikit-learn: [sklearn](https://github.com/bearxcave/bearxcave.github.io/blob/master/img/cheatsheet/cheat%20sheet%20scikit-learn.pdf)
+* keras: [keras](https://github.com/bearxcave/bearxcave.github.io/blob/master/img/cheatsheet/cheat%20sheet%20keras.pdf)
+* PySpark: [PySpark](https://github.com/bearxcave/bearxcave.github.io/blob/master/img/cheatsheet/cheat%20sheet%20PySpark.pdf)
+* spaCy: [spaCy](https://github.com/bearxcave/bearxcave.github.io/blob/master/img/cheatsheet/cheat%20sheet%20spaCy.pdf)
 
 ### Basic
 
