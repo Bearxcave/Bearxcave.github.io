@@ -10,7 +10,7 @@ tags:
     - machine learning
 ---
 
-### List of PDF cheatsheets (only in git repo)
+### List of PDF cheatsheets
 
 * python: [python](https://github.com/bearxcave/bearxcave.github.io/blob/master/img/cheatsheet/cheat%20sheet%20python.pdf)
 * importing data: [importing](https://github.com/bearxcave/bearxcave.github.io/blob/master/img/cheatsheet/cheat%20sheet%20importing%20data.pdf)
