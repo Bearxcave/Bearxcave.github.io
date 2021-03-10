@@ -10,7 +10,7 @@ tags:
     - machine learning
 ---
 
-### List of PDF cheatsheets
+### List of PDF cheatsheets (only in git repo)
 
 * python: [python](../img/cheatsheet/cheat%20sheet%20python.pdf)
 * importing data: [importing](../img/cheatsheet/cheat%20sheet%20importing%20data.pdf)
