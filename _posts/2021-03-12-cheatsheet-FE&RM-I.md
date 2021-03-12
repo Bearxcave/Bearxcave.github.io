@@ -13,6 +13,14 @@ tags:
 
 ### Introduction to No-arbitrage
 
+Consider the following contract
 
+* Pay price *p* at time *t*=0
+* Receive $c_k$ at time *t*=*k*, *k*=1, $\cdots$, *T*
+
+The no-arbitrage condition bounds the price *p* for this contract:
+
+* Weak No-Arbitrage: $c_k \geq 0$ for all $k \geq 1 \rightArrow p \geq 0$
+* Strong No-Arbitrage: $c_k \geq 0$ for all $k \geq 1$ and $c_l>0$ for some $l \rightArrow p \geq 0$
 
 
