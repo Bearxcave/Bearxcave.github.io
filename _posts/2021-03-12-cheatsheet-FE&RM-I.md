@@ -20,7 +20,7 @@ Consider the following contract
 
 The no-arbitrage condition bounds the price *p* for this contract:
 
-* Weak No-Arbitrage: $c_k \geq 0$ for all $k \geq 1 \rightArrow p \geq 0$
-* Strong No-Arbitrage: $c_k \geq 0$ for all $k \geq 1$ and $c_l>0$ for some $l \rightArrow p \geq 0$
+* Weak No-Arbitrage: $c_k \geq 0$ for all $k \geq 1 \Rightarrow p \geq 0$
+* Strong No-Arbitrage: $c_k \geq 0$ for all $k \geq 1$ and $c_l>0$ for some $l \Rightarrow p \geq 0$
 
 
