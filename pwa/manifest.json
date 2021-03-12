@@ -1,13 +1,13 @@
 {
-  "name": "BY Blog",
-  "short_name": "BY Blog",
-  "description": "A personal blog by engineer",
+  "name": "BC Blog",
+  "short_name": "BC Blog",
+  "description": "A personal blog",
   "icons": [{
-    "src": "icons/pwa_icon_12.png",
+    "src": "icons/pwa_icon_128.png",
     "sizes": "128x128",
     "type": "image/png"
   }, {
-    "src": "icons/pwa_icon_51.png",
+    "src": "icons/pwa_icon_512.png",
     "sizes": "512x512",
     "type": "image/png"
   }],
