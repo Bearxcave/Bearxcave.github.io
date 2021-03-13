@@ -23,4 +23,8 @@ The no-arbitrage condition bounds the price *p* for this contract:
 * Weak No-Arbitrage: $c_k \geq 0$ for all $k \geq 1 \Rightarrow p \geq 0$
 * Strong No-Arbitrage: $c_k \geq 0$ for all $k \geq 1$ and $c_l>0$ for some $l \Rightarrow p \geq 0$
 
+An amount *A* invested for *n* periods at a __simple__ interst rate of *r* per period is worth $A(1+n\dot r)$ at maturity.
 
+An amount *A* invested for *n* periods at a __compound__ interst rate of *r* per period is worth $A(1+r)^n$ at maturity.
+
+__Continuous compounding__: an amount *A* invested for *y* years is woth $\lim_{n\to \infty} A(1+r/n)^{yn}=A e^{ry}$ at maturity.
