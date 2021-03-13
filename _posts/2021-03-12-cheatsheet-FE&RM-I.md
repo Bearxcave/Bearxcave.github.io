@@ -11,7 +11,7 @@ tags:
     - risk management
 ---
 
-### Introduction to No-arbitrage
+### Introduction to Basic Fixed Income Securities
 
 The no-arbitrage condition bounds the price *p* for this contract:
 
@@ -33,3 +33,5 @@ __Fixed income securities__:
 * Default risk
 * Inflation risk
 * Market risk
+
+Linear pricing theorem
