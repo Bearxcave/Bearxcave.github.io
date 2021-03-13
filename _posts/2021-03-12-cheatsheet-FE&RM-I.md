@@ -25,3 +25,5 @@ An amount *A* invested for *n* periods at a __compound__ interst rate of *r* per
 __Continuous compounding__: an amount *A* invested for *y* years is worth $\lim_{n\to \infty} A(1+r/n)^{yn}=A e^{ry}$ at maturity.
 
 __Present value__: $PV(\mathbf{c}; r) = \sum_{k=0}^N \frac{c_k}{(1+r)^k}$
+
+Can Lend at rate $r_L$ and borrow rate at rate $r_B$: $r_L < r_B$?
