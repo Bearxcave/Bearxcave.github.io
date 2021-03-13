@@ -36,6 +36,6 @@ __Fixed income securities__:
 
 Linear pricing theorem
 
-Discount rate, port rate, forward rate
+Discount rate, spot rate, forward rate
 
 __Forward contract__
