@@ -11,7 +11,7 @@ tags:
     - risk management
 ---
 
-### Introduction to Basic Fixed Income Securities
+### Introduction to Basic Fixed Income Securities & Instruments
 
 The no-arbitrage condition bounds the price *p* for this contract:
 
