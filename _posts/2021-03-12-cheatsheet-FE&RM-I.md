@@ -42,7 +42,7 @@ __Forward contract__
 
 ### Introduction to Derivative Securities
 
-##### Swap contract
+#### Swap contract
 
 Swaps are contracts that transform one kind of cash flow into another.
 
