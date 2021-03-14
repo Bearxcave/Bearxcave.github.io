@@ -62,3 +62,5 @@ Cons:
 * Futures prices are approximately linear function of the underlying - only linear payoffs can be hedged
 * May not be flexible enough; back to Forwards!
 
+Minimum variance hedging
+
