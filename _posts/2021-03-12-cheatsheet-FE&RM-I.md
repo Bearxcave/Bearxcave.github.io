@@ -50,7 +50,7 @@ __Forward contract__
 
 __Swaps__: contracts that transform one kind of cash flow into another.
 
-__Future__: 
+__Futures__: 
 
 Pros:
 * High leverage: high profit
@@ -59,6 +59,6 @@ Pros:
 
 Cons:
 * High leverage: high risk
-* Future prices are approximately linear function of the underlying - only linear payoffs can be hedged
+* Futures prices are approximately linear function of the underlying - only linear payoffs can be hedged
 * May not be flexible enough; back to Forwards!
 
