@@ -13,6 +13,8 @@ tags:
 
 ### Introduction to Basic Fixed Income Securities & Instruments
 
+#### Basics of Fixed Income Securities
+
 The no-arbitrage condition bounds the price *p* for this contract:
 
 * Weak No-Arbitrage: $c_k \geq 0$ for all $k \geq 1 \Rightarrow p \geq 0$
@@ -34,6 +36,8 @@ __Fixed income securities__:
 * Inflation risk
 * Market risk
 
+#### Basic Fixed Income Instruments
+
 Linear pricing theorem
 
 Discount rate, spot rate, forward rate
@@ -42,9 +46,19 @@ __Forward contract__
 
 ### Introduction to Derivative Securities
 
-#### Swap contract
+#### Swaps & Futures
 
-Swaps are contracts that transform one kind of cash flow into another.
+__Swaps__: contracts that transform one kind of cash flow into another.
 
+__Future__: 
 
+Pros:
+* High leverage: high profit
+* Very liquid
+* Can be written on a wide variety of underlying assets
+
+Cons:
+* High leverage: high risk
+* Future prices are approximately linear function of the underlying - only linear payoffs can be hedged
+* May not be flexible enough; back to Forwards!
 
