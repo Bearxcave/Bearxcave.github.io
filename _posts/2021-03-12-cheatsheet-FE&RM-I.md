@@ -72,7 +72,7 @@ Utility function
 
 #### The 1-Period Binomial Model
 
-Replicating portfolio & Derivative security pricing:
+Derivative security pricing:
 * Can use repolicating portfolio argument to find price, $C_0$, of any derivative security with payoff function, $C_1(S_1)$ ($C_u$ for up-move and $C_d$ for down-more), at time *t=1*.
 * Set up replicating portfolio as \
 $u S_0 x + Ry = C_u$ \
