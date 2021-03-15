@@ -64,3 +64,11 @@ Cons:
 
 Minimum variance hedging
 
+#### Options and Options Pricing
+
+
+
+#### The 1-Period Binomial Model
+
+
+
