@@ -66,7 +66,9 @@ Minimum variance hedging
 
 #### Options and Options Pricing
 
+The St Petersberg Paradox
 
+Utility function
 
 #### The 1-Period Binomial Model
 
