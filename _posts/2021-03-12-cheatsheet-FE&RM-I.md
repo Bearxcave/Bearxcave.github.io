@@ -72,5 +72,5 @@ Utility function
 
 #### The 1-Period Binomial Model
 
-
+Replicating portfolio
 
