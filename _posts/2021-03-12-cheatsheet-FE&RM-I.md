@@ -79,3 +79,4 @@ $u S_0 x + Ry = C_u$ \
 $d S_0 x + Ry = C_d$
 * Solve for *x* and *y* as before and then must have $C_0 = x S_0 + y$.
 
+Risk-neutral probabilities & risk-neutral pricing
