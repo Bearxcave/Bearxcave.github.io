@@ -80,3 +80,11 @@ $d S_0 x + Ry = C_d$
 * Solve for *x* and *y* as before and then must have $C_0 = x S_0 + y$.
 
 Risk-neutral probabilities & risk-neutral pricing
+
+### Option Pricing in the Multi-Period Binomial Model
+
+#### The Multi-Period Binomial Model
+
+#### Pricing American Options and Replicating Strategies
+
+#### Dividends, Pricing in the Binomial Model, and the Black-Scholes Model
