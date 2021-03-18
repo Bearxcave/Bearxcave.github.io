@@ -90,7 +90,8 @@ Risk-neutral probabilities & risk-neutral pricing
 
 #### Pricing American Options and Replicating Strategies
 
-* Risk-neutral pricing of European call with K=0: $S_0 = \mathrm{E}^{\mathbb{Q}}_0 [S_n R^{-n}]$
-* Including dividend: $S_0 = \mathrm{E}^{\mathbb{Q}}_0 [S_n R^{-n} + \sum^n_{i=1} D_i R^{-i}]$
+* Risk-neutral pricing of European call with K=0: $S_0 = \mathrm{E}^{\mathbb{Q}}_0 [S_n R^{-n}] $
+* Including dividend: $S_0 = \mathrm{E}^{\mathbb{Q}}_0 [S_n R^{-n} + \sum^n_{i=1} D_i R^{-i}] $
+* $S_0 = \mathrm{E}^{\mathbb{Q}}_0$
 
 #### Dividends, Pricing in the Binomial Model, and the Black-Scholes Model
