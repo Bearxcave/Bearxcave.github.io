@@ -86,8 +86,11 @@ Risk-neutral probabilities & risk-neutral pricing
 #### The Multi-Period Binomial Model
 
 * no arbitrage <=> *d* < *R* < *u*
-* anay derivative security with time *T* payoff, $C_T$, can be priced using $C_0 = \frac{1}{R^n} \mathrm{E}^{\mathcal{Q}}_0 [C_T]$
+* anay derivative security with time *T* payoff, $C_T$, can be priced using $C_0 = \frac{1}{R^n} \mathrm{E}^{\mathbb{Q}}_0 [C_T]$
 
 #### Pricing American Options and Replicating Strategies
+
+* Risk-neutral pricing of European call with K=0: $S_0 = \mathrm{E}^{\mathbb{Q}}_0 [S_n R^{-n}]$
+* Including dividend: $S_0 = \mathrm{E}^{\mathbb{Q}}_0 [S_n R^{-n} + \sum^n_{i=1} D_i R^{-i}]$
 
 #### Dividends, Pricing in the Binomial Model, and the Black-Scholes Model
