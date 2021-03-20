@@ -94,3 +94,10 @@ Risk-neutral probabilities & risk-neutral pricing
 
 * Risk-neutral pricing of European call with *K*=0: $S_0 = \mathrm{E}^{\mathbb{Q}}_0 [S_n R^{-n}] $
 * Including dividend, $D_i$: $S_0 = \mathrm{E}^{\mathbb{Q}}_0 [S_n R^{-n} + \sum_{i=1}^n D_i R^{-i} ] $
+
+
+### Supplement material
+
+* Conditional expectations and variances \
+$E[X] = E[E[X|Y]]$ \
+$Var(X) = Var(E[X|Y]) + E(Var(X|Y))$
