@@ -101,3 +101,6 @@ Risk-neutral probabilities & risk-neutral pricing
 * Conditional expectations and variances \
 $E[X] = E[E[X|Y]]$ \
 $Var(X) = Var(E[X|Y]) + E(Var(X|Y))$
+
+* Martingale betting strategy \
+
