@@ -110,7 +110,7 @@ Risk-neutral probabilities & risk-neutral pricing
 
 * Pricing future contract: $ F_0 = E_0^{\mathbb Q}  [S_n] $
 
-* Caplet and floorlet: payoff are $  $
+* Caplet and floorlet: payoff are $ s $
 
 ### Supplement material
 
