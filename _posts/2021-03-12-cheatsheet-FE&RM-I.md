@@ -104,3 +104,12 @@ $Var(X) = Var(E[X|Y]) + E(Var(X|Y))$
 
 * Martingale betting strategy \
 
+### Term Structure Models
+
+#### Introduction to Term Structure Lattice Models and the Cash Account
+
+* short-rate
+
+* Rist-neutral pricing for a "coupon" paying security: $ \frac{Z_t}{B_t} = E_t^{\mathbb Q} \left[ \sum_{j=t+1}^{t+s} \frac{C_j}{B_j} + \frac{Z_{t+s}}{B_{t+s}}  \right]$
+
+#### Fixed Income Derivatives
