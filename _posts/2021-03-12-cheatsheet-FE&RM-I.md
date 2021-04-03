@@ -96,14 +96,6 @@ Risk-neutral probabilities & risk-neutral pricing
 * Including dividend, $D_i$: $S_0 = \mathrm{E}^{\mathbb{Q}}_0 [S_n R^{-n} + \sum_{i=1}^n D_i R^{-i} ] $
 
 
-### Supplement material
-
-* Conditional expectations and variances \
-$E[X] = E[E[X|Y]]$ \
-$Var(X) = Var(E[X|Y]) + E(Var(X|Y))$
-
-* Martingale betting strategy \
-
 ### Term Structure Models
 
 #### Introduction to Term Structure Lattice Models and the Cash Account
@@ -113,3 +105,17 @@ $Var(X) = Var(E[X|Y]) + E(Var(X|Y))$
 * Rist-neutral pricing for a "coupon" paying security: $ \frac{Z_t}{B_t} = E_t^{\mathbb Q} \left[ \sum_{j=t+1}^{t+s} \frac{C_j}{B_j} + \frac{Z_{t+s}}{B_{t+s}}  \right]$
 
 #### Fixed Income Derivatives
+
+* Pricing a forward on a coupon-bearing bond: $ G_0 = \frac{E_0^{\mathbb Q} [S_n /B_n]}{ E_0^{\mathbb Q} [1 /B_n] } $
+
+* Pricing future contract: $ F_0 = E_0^{\mathbb Q}  [S_n] $
+
+* Caplet and floorlet: payoff are $  $
+
+### Supplement material
+
+* Conditional expectations and variances \
+$E[X] = E[E[X|Y]]$ \
+$Var(X) = Var(E[X|Y]) + E(Var(X|Y))$
+
+* Martingale betting strategy \
