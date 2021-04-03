@@ -110,7 +110,10 @@ Risk-neutral probabilities & risk-neutral pricing
 
 * Pricing future contract: $ F_0 = E_0^{\mathbb Q}  [S_n] $
 
-* Caplet and floorlet: payoff are $ s $
+* Caplet and floorlet: The payoff at time *t* are $ (r_{t-1} - c)^+ $ and $ (c- r_{t-1})^+ $ respectively. \
+$Rightarrow$ Swaps & swaption.
+
+* Forward equation: My naive understanding is to switch the calculation direction.
 
 ### Supplement material
 
