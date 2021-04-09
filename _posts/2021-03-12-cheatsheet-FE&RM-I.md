@@ -122,9 +122,14 @@ $\Rightarrow$ Swaps & swaption.
 
 * Calibration problem: $\mathrm{min} = \sum_i \omega_i [P_i(\text{model})-P_i(\text{market})]^2 + \lambda || \mathbf \theta - \mathbf \theta_{\text{prev}} || $
 
-#### Pricing in a BDT Model and Pricing in Practice
+#### Defaultable Bonds
 
-#### Modeling and Pricing Defaultable Bonds
+Characterized by
+* Coupon *c*
+* Face value *F*
+* Recovery value *R* = random fraction of face value recovered on default
+
+ZCB with recovery: $\bar Z^T_{i,j,0} = \frac{1}{1+r_{ij}} [q_u (1-h_{ij}) \bar Z^T_{i+1,j+1,0} + q_d (1-h_{ij}) \bar Z^T_{i+1,j,0} + q_u h_{ij} R + q_d h_{ij} R] $
 
 #### Credit Default Swipes
 
