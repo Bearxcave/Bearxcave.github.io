@@ -133,6 +133,8 @@ ZCB with recovery: $\bar Z^T_{i,j,0} = \frac{1}{1+r_{ij}} [q_u (1-h_{ij}) \bar Z
 
 #### Credit Default Swipes
 
+
+
 ### Supplement material
 
 * Conditional expectations and variances \
