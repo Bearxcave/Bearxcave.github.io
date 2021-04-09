@@ -115,6 +115,21 @@ $Rightarrow$ Swaps & swaption.
 
 * Forward equation: My naive understanding is to switch the calculation direction.
 
+#### Model Calibration
+
+* Ho-Lee model: $r_{i,j} = a_i + b_i j
+* Black-Derman-Toy: $r_{i,j} = a_i e^{b_i j}$, where $\log(a_i)$ and $b_i$ are the drift and volatility parameter for $\log(r)$ respectively.
+
+* Calibration problem: $\mathrm{min} = \sum_i \omega_i (P)$
+
+
+
+#### Pricing in a BDT Model and Pricing in Practice
+
+#### Modeling and Pricing Defaultable Bonds
+
+#### Credit Default Swipes
+
 ### Supplement material
 
 * Conditional expectations and variances \
