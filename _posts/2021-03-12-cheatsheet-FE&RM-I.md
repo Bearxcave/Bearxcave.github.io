@@ -111,7 +111,7 @@ Risk-neutral probabilities & risk-neutral pricing
 * Pricing future contract: $ F_0 = E_0^{\mathbb Q}  [S_n] $
 
 * Caplet and floorlet: The payoff at time *t* are $ (r_{t-1} - c)^+ $ and $ (c- r_{t-1})^+ $ respectively. \
-$Rightarrow$ Swaps & swaption.
+$\Rightarrow$ Swaps & swaption.
 
 * Forward equation: My naive understanding is to switch the calculation direction.
 
@@ -121,8 +121,6 @@ $Rightarrow$ Swaps & swaption.
 * Black-Derman-Toy: $r_{i,j} = a_i e^{b_i j}$, where $\log(a_i)$ and $b_i$ are the drift and volatility parameter for $\log(r)$ respectively.
 
 * Calibration problem: $\mathrm{min} = \sum_i \omega_i [P_i(\text{model})-P_i(\text{market})]^2 + \lambda || \mathbf \theta - \mathbf \theta_{\text{prev}} || $
-
-
 
 #### Pricing in a BDT Model and Pricing in Practice
 
