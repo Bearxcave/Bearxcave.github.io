@@ -131,6 +131,11 @@ Characterized by
 
 ZCB with recovery: $\bar Z^T_{i,j,0} = \frac{1}{1+r_{ij}} [q_u (1-h_{ij}) \bar Z^T_{i+1,j+1,0} + q_d (1-h_{ij}) \bar Z^T_{i+1,j,0} + q_u h_{ij} R + q_d h_{ij} R] $
 
+* State-independent hazard rates: assume that $h_{ij}=h_i$.
+* Let $q(t)$ be risk-neutral probability that the bond survives until date *t*, so that $q(t+1) = (1-h_t) q(t) = \prod (1-h_k)$
+* Let $I(t)$ be 1 if the bond is not in default at time *t*, and 0 otherwise.
+* $\Rightarrow \mathbb E_0^Q [I(t)] = q(t)$
+
 #### Credit Default Swipes
 
 
