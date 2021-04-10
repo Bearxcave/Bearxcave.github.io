@@ -136,9 +136,19 @@ ZCB with recovery: $\bar Z^T_{i,j,0} = \frac{1}{1+r_{ij}} [q_u (1-h_{ij}) \bar Z
 * Let $I(t)$ be 1 if the bond is not in default at time *t*, and 0 otherwise.
 * $\Rightarrow \mathbb E_0^Q [I(t)] = q(t)$
 
+Price of defaultable fixed coupon bond is: $\bar P(0) = \sum c q(t_k) d(0, t_k) + F q(t_n) d(0,t_n) + RF \sum [q(t_{k-1}) - q(t_k)] d(0,t_k)$
+
 #### Credit Default Swipes
 
+* *N*: notional principal amount of credit protectino
+* Accrued interest: interest accumulated from last coupon to default
+* *S*: coupon or spread
+* CDS seller has to compensate the buyer (1-*R*)*N* on default
 
+Assumption: Default event uniformly distributied over the premium interval $\delta$
+
+* Par spread: $S_\text{par} = \frac{(1-R) \sum [q(t_{k-1}) - q(t_k)] d(0,t_k)}{\frac{\delta}{2} \sum [q(t_{k-1}) + q(t_k)] d(0,t_k) }$
+* Suppose $q(t_k)\approx (1-h) q(t_{k-1})$: $S_\text{par} = \frac{(1-R)h}{1-h/2}$
 
 ### Supplement material
 
