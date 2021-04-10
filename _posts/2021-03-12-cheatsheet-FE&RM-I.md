@@ -141,4 +141,4 @@ ZCB with recovery: $\bar Z^T_{i,j,0} = \frac{1}{1+r_{ij}} [q_u (1-h_{ij}) \bar Z
 $E[X] = E[E[X|Y]]$ \
 $Var(X) = Var(E[X|Y]) + E(Var(X|Y))$
 
-* Martingale betting strategy \
+* Martingale betting strategy
