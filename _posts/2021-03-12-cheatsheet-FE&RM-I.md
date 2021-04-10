@@ -117,7 +117,7 @@ $\Rightarrow$ Swaps & swaption.
 
 #### Model Calibration
 
-* Ho-Lee model: $r_{i,j} = a_i + b_i j
+* Ho-Lee model: $r_{i,j} = a_i + b_i j$
 * Black-Derman-Toy: $r_{i,j} = a_i e^{b_i j}$, where $\log(a_i)$ and $b_i$ are the drift and volatility parameter for $\log(r)$ respectively.
 
 * Calibration problem: $\mathrm{min} = \sum_i \omega_i [P_i(\text{model})-P_i(\text{market})]^2 + \lambda \text{ abs}( \mathbf \theta - \mathbf \theta_{\text{prev}} )^2 $
