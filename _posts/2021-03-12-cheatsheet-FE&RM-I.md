@@ -168,8 +168,9 @@ Basics for a standard level-payment mortgage:
 * After the *n* payments, the mortgage is fully __amortizing__
 * Interest due in period *k*: $I_k = c M_{k-1}$
 * Mortgage principal remaining after the *k*th period: $M_k=(1+c)M_{k-1}-B$, with $M_n=0$
-* The *k*th payment as paying of the remaining principal: $P_k = B - c M_{k-1}$
 * $\Rightarrow M_k = (1+c)^k M_0 - B \frac{(1+c)^k-1}{c} = M_0 \frac{(1+c)^n-(1+c)^k}{(1+c)^n-1}$
+* The *k*th payment as paying of the remaining principal: $P_k = B - c M_{k-1}$
+* $\Rightarrow P_k = (B - c M_0)(1+c)^{k-1}$
 
 Present value with no possibility of defaults or prepayments (assuming a risk-free interest rate of *r* per period): $F_0 = \sum \frac{B}{(1+r)^k} = M_0 \frac{c(1+c)^n}{(1+c)^n-1} \frac{(1+r)^n-1}{r(1+r)^n}$
 * If *r*=*c* then $F_0 = M_0$
@@ -188,6 +189,7 @@ Present value with no possibility of defaults or prepayments (assuming a risk-fr
 Prepayment conventions:
 * Conditional prepayment rate (CPR): the annual rate at which a given mortgage pool prepays.
 * Single-month mortality rate (SMM): SMM = 1 - (1 - CPR)$^{1/12}$
+
 In practice, the CPR is stochastic which depends on the mortgage pool and other economic variables. However, a deterministic prepayment schedule is often used and the standard benchmark is the __Public Securities Association (PSA)__ benchmark
 
 Average life of an MBS: $\sum_{k=1}^T \frac{k P_k}{12 T P}$
@@ -198,7 +200,18 @@ Average life of an MBS: $\sum_{k=1}^T \frac{k P_k}{12 T P}$
 
 #### Principal-Only and Interest Only Mortgage-Backed Securities
 
+Present value of principal payment stream: $V_0 = (B-c M_0) \frac{(1+r)^n-(1+c)^n}{(r-c)(1+r)^n} = \frac{c M_0}{(1+c)^n-1} \frac{(1+r)^n-(1+c)^n}{(r-c)(1+r)^n}$
+* In the case of *r*=*c*: $V_0 = \frac{rn M_0}{(1+r)[(1+r)^n-1]}$
+
+Present value of interest payment stream: $W_0 = F_0 - V_0$
+
 #### CMOs and Pricing Mortgage-Backed Securities
+
+Collateralized mortgage obligations (CMOS):
+* Sequential CMOs
+* CMOs with accrual bonds
+* CMOs with floating-rate and inverse-floating-rate tranches
+* planned amortization class (PAC) CMOs
 
 ### Supplement material
 
