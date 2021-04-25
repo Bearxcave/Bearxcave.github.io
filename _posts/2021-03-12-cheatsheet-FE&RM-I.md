@@ -161,13 +161,20 @@ Types of mortgages:
 * balloon mortgages
 
 Basics for a standard level-payment mortgage:
-* Initial mortgage principal: $M_0 = M$
+* Initial mortgage principal: $M_0$
 * Assume equal periodic payments of size *B* dollars
 * The coupon rate per period: *c*
 * There are a total of repayment periods: *n*
 * After the *n* payments, the mortgage is fully __amortizing__
+* Interest due in period *k*: $I_k = c M_{k-1}$
 * Mortgage principal remaining after the *k*th period: $M_k=(1+c)M_{k-1}-B$, with $M_n=0$
-* $\Rightarrow M_k = M_0 \frac{(1+c)^n-(1+c)^k}{(1+c)^n-1}$
+* $\Rightarrow M_k = (1+c)^k M_0 - B \frac{(1+c)^k-1}{c} = M_0 \frac{(1+c)^n-(1+c)^k}{(1+c)^n-1}$
+
+Present value with no possibility of defaults or prepayments (assuming a risk-free interest rate of *r* per period): $F_0 = \sum \frac{B}{(1+r)^k} = M_0 \frac{c(1+c)^n}{(1+c)^n-1} \frac{(1+r)^n-1}{r(1+r)^n}$
+* If *r*=*c* then $F_0 = M_0$
+* In general, *r*<*c*, to account for the possibility of default, prepayment, servicing fees, profits, payment uncertainty etc.
+
+
 
 #### Prepayment Risks and Pass-Throughs
 
