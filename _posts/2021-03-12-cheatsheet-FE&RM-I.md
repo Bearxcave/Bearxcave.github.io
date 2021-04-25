@@ -168,15 +168,33 @@ Basics for a standard level-payment mortgage:
 * After the *n* payments, the mortgage is fully __amortizing__
 * Interest due in period *k*: $I_k = c M_{k-1}$
 * Mortgage principal remaining after the *k*th period: $M_k=(1+c)M_{k-1}-B$, with $M_n=0$
+* The *k*th payment as paying of the remaining principal: $P_k = B - c M_{k-1}$
 * $\Rightarrow M_k = (1+c)^k M_0 - B \frac{(1+c)^k-1}{c} = M_0 \frac{(1+c)^n-(1+c)^k}{(1+c)^n-1}$
 
 Present value with no possibility of defaults or prepayments (assuming a risk-free interest rate of *r* per period): $F_0 = \sum \frac{B}{(1+r)^k} = M_0 \frac{c(1+c)^n}{(1+c)^n-1} \frac{(1+r)^n-1}{r(1+r)^n}$
 * If *r*=*c* then $F_0 = M_0$
 * In general, *r*<*c*, to account for the possibility of default, prepayment, servicing fees, profits, payment uncertainty etc.
 
-
-
 #### Prepayment Risks and Pass-Throughs
+
+* Prepayments: payments made in excess of the schedules payments
+* In practice, mortgages are often sold on to third parties who can then *pool* these mortgages together to create MBS
+* Pass-through MBS: a group of mortgages are pooled together
+* Pass-through coupon rate: strictly less than the average coupon rate of the underlying mortageges due to fees associated with servicing the mortgages
+* Weighted average coupon rate (WAC): a weighted average of the coupon rates in the mortgage pool with weights equal to mortgage amounts still outstanding.
+* Weighted average maturity (WAM): a weighted average of the remaining months to maturity of each mortgage in the mortgage pool with weights equal to the mortgage amounts still outstanding.
+* Pass-through investor is also exposed to *prepayment risk*, in particular *contraction risk* and *extension risk*
+
+Prepayment conventions:
+* Conditional prepayment rate (CPR): the annual rate at which a given mortgage pool prepays.
+* Single-month mortality rate (SMM): SMM = 1 - (1 - CPR)$^{1/12}$
+In practice, the CPR is stochastic which depends on the mortgage pool and other economic variables. However, a deterministic prepayment schedule is often used and the standard benchmark is the __Public Securities Association (PSA)__ benchmark
+
+Average life of an MBS: $\sum_{k=1}^T \frac{k P_k}{12 T P}$
+* Principal (schedules and projected prepayment) paid at time *k*: $P_k$
+* Total principal amount: *TP*
+* Total number of months: *T*
+* And we divide by 12 so that measured in years
 
 #### Principal-Only and Interest Only Mortgage-Backed Securities
 
