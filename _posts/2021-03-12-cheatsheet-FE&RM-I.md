@@ -172,7 +172,7 @@ Basics for a standard level-payment mortgage:
 * The *k*th payment as paying of the remaining principal: $P_k = B - c M_{k-1}$
 * $\Rightarrow P_k = (B - c M_0)(1+c)^{k-1}$
 
-Present value with no possibility of defaults or prepayments (assuming a risk-free interest rate of *r* per period): $F_0 = \sum \frac{B}{(1+r)^k} = M_0 \frac{c(1+c)^n}{(1+c)^n-1} \frac{(1+r)^n-1}{r(1+r)^n}$
+Present value with no possibility of defaults or prepayments (assuming a risk-free interest rate of *r* per period): $F_0 = \sum_{k=1}^n \frac{B}{(1+r)^k} = M_0 \frac{c(1+c)^n}{(1+c)^n-1} \frac{(1+r)^n-1}{r(1+r)^n}$
 * If *r*=*c* then $F_0 = M_0$
 * In general, *r*<*c*, to account for the possibility of default, prepayment, servicing fees, profits, payment uncertainty etc.
 
@@ -192,18 +192,22 @@ Prepayment conventions:
 
 In practice, the CPR is stochastic which depends on the mortgage pool and other economic variables. However, a deterministic prepayment schedule is often used and the standard benchmark is the __Public Securities Association (PSA)__ benchmark
 
-Average life of an MBS: $\sum_{k=1}^T \frac{k P_k}{12 T P}$
+Average life of an MBS: $\sum_{k=1}^n \frac{k P_k}{12 TP}$
 * Principal (schedules and projected prepayment) paid at time *k*: $P_k$
 * Total principal amount: *TP*
-* Total number of months: *T*
+* Total number of months: *n*
 * And we divide by 12 so that measured in years
 
 #### Stripped Mortgage-Backed Securities (SMBS)
 
-Present value of principal payment stream: $V_0 = (B-c M_0) \frac{(1+r)^n-(1+c)^n}{(r-c)(1+r)^n} = \frac{c M_0}{(1+c)^n-1} \frac{(1+r)^n-(1+c)^n}{(r-c)(1+r)^n}$
+Present value of principal payment stream (PO MBS): $V_0 = \sum_{k=1}^n \frac{I_k}{(1+r)^k} = \sum (B-c M_0) \frac{(1+r)^n-(1+c)^n}{(r-c)(1+r)^n} = \frac{c M_0}{(1+c)^n-1} \frac{(1+r)^n-(1+c)^n}{(r-c)(1+r)^n}$
 * In the case of *r*=*c*: $V_0 = \frac{rn M_0}{(1+r)[(1+r)^n-1]}$
 
-Present value of interest payment stream: $W_0 = F_0 - V_0$
+Present value of interest payment stream (IO MBS): $W_0 = F_0 - V_0$
+
+Duration:
+* Duration of PO MBS: $D_P = \frac{1}{12 V_0} \sum_{k=1}^n \frac{k P_k}{(1+r)^k}$
+* Duration of IO MBS: $D_I = \frac{1}{12 W_0} \sum_{k=1}^n \frac{k I_k}{(1+r)^k}$
 
 #### CMOs and Pricing Mortgage-Backed Securities
 
