@@ -152,7 +152,22 @@ Assumption: Default event uniformly distributied over the premium interval $\del
 
 ### Mortgage Mathematics and Mortgage-Backed Securities
 
-#### Mortgage Mathematics and Mortgage-Backed Securities
+Mortgage-backed secrities (MBSs) are a particular class of asset-backed securities (ABS). The underlying pools of securities can be mortgages, auto-loans, credit-card receivables, student loans etc.
+* Securitization: the process by which ABS are created.
+
+Types of mortgages:
+* level-payment mortgage
+* adjustable-rate mortgage (ARM)
+* balloon mortgages
+
+Basics for a standard level-payment mortgage:
+* Initial mortgage principal: $M_0 = M$
+* Assume equal periodic payments of size *B* dollars
+* The coupon rate per period: *c*
+* There are a total of repayment periods: *n*
+* After the *n* payments, the mortgage is fully __amortizing__
+* Mortgage principal remaining after the *k*th period: $M_k=(1+c)M_{k-1}-B$, with $M_n=0$
+* $\Rightarrow M_k = M_0 \frac{(1+c)^n-(1+c)^k}{(1+c)^n-1}$
 
 #### Prepayment Risks and Pass-Throughs
 
