@@ -6,8 +6,6 @@ date:       2021-02-19
 author:     Bearx
 header-img: img/post-bg-cook.jpg
 catalog: true
-tags:
-    - blog
 ---
 
 
