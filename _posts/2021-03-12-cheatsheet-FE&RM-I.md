@@ -198,7 +198,7 @@ Average life of an MBS: $\sum_{k=1}^T \frac{k P_k}{12 T P}$
 * Total number of months: *T*
 * And we divide by 12 so that measured in years
 
-#### Principal-Only and Interest Only Mortgage-Backed Securities
+#### Stripped Mortgage-Backed Securities (SMBS)
 
 Present value of principal payment stream: $V_0 = (B-c M_0) \frac{(1+r)^n-(1+c)^n}{(r-c)(1+r)^n} = \frac{c M_0}{(1+c)^n-1} \frac{(1+r)^n-(1+c)^n}{(r-c)(1+r)^n}$
 * In the case of *r*=*c*: $V_0 = \frac{rn M_0}{(1+r)[(1+r)^n-1]}$
