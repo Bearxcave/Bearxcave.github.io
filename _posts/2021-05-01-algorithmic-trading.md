@@ -13,14 +13,14 @@ tags:
 
 ### Technical Indicators
 
-* MACD: Moving average convergence divergence
+MACD: Moving average convergence divergence
 
 ```python
 import 
 ```
 
-* ATR: Actual true range
+ATR: Actual true range
 
-* Bollinger Bands
+Bollinger Bands
 
 
