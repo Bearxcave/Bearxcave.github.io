@@ -15,6 +15,12 @@ tags:
 
 * MACD: Moving average convergence divergence
 
+```python
+import 
+```
+
 * ATR: Actual true range
+
+* Bollinger Bands
 
 
