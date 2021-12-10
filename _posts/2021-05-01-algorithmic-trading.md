@@ -49,8 +49,7 @@ import
 
 * Magic Formula
 
-- 123
-- 123
+$$ \frac{1}{2} $$
 
 * Piotroski F-Score
 
