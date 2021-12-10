@@ -23,4 +23,11 @@ ATR: Actual true range
 
 Bollinger Bands
 
+RSI: Relative Strength Index
+
+ADX: Average Directional Index
+
+Supertrend
+
+Renko Charts
 
