@@ -49,6 +49,8 @@ import
 
 * Magic Formula
 
+** 123
+
 * Piotroski F-Score
 
 ### Building Automated Trading System on a Shoestring Budget
