@@ -13,21 +13,21 @@ tags:
 
 ### Technical Indicators
 
-MACD: Moving average convergence divergence
+* MACD: Moving average convergence divergence
 
 ```python
 import 
 ```
 
-ATR: Actual true range
+* ATR: Actual true range
 
-Bollinger Bands
+* Bollinger Bands
 
-RSI: Relative Strength Index
+- RSI: Relative Strength Index
 
-ADX: Average Directional Index
+- ADX: Average Directional Index
 
-Supertrend
+- Supertrend
 
-Renko Charts
+- Renko Charts
 
