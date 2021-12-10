@@ -23,11 +23,28 @@ import
 
 * Bollinger Bands
 
-- RSI: Relative Strength Index
+* RSI: Relative Strength Index
 
-- ADX: Average Directional Index
+* ADX: Average Directional Index
 
-- Supertrend
+* Supertrend
 
-- Renko Charts
+* Renko Charts
+
+### Performance Measurement - KPIs
+
+### Backtest Your strategies
+
+* Portfolio Rebalancing
+
+* Resistance Breakout
+
+* Renko and OBV
+
+* Renko and MACD
+
+### Value Investing
+
+### Building Automated Trading System on a Shoestring Budget
+
 
