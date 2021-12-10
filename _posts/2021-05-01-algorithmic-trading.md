@@ -47,6 +47,10 @@ import
 
 ### Value Investing
 
+* Magic Formula
+
+* Piotroski F-Score
+
 ### Building Automated Trading System on a Shoestring Budget
 
 
