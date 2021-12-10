@@ -49,7 +49,8 @@ import
 
 * Magic Formula
 
-** 123
+- 123
+- 123
 
 * Piotroski F-Score
 
