@@ -47,11 +47,10 @@ import
 
 ### Value Investing
 
-* Magic Formula
-
-$ \frac{1}{2} $
-
-$C_0 = x S_0 + y$
+* Magic Formula: Magic Formula = Rank(Rank(Earnings Yield)) + (Rank(ROIC))
+Earnings Yield = $\frac{EBIT}{Enterprise Value}$
+Return on Invested Capital: ROIC = $\frac{EBIT}{Net Fixed Assets + Net Working Capital}$
+EBIT: Earnings before interest and taxes
 
 * Piotroski F-Score
 
