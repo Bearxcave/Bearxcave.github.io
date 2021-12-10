@@ -49,7 +49,9 @@ import
 
 * Magic Formula
 
-$$ \frac{1}{2} $$
+$ \frac{1}{2} $
+
+$C_0 = x S_0 + y$
 
 * Piotroski F-Score
 
