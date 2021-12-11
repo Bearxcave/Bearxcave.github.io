@@ -52,7 +52,7 @@ Earnings Yield = $\frac{EBIT}{Enterprise Value}$ \
 Return on Invested Capital: ROIC = $\frac{EBIT}{Net Fixed Assets + Net Working Capital}$ \
 EBIT: Earnings before interest and taxes
 
-* Piotroski F-Score
+* Piotroski F-Score: A number between 0-9 to assess the strength of company's financial position (9 being the best) based on 9 criteria.
 
 ### Building Automated Trading System on a Shoestring Budget
 
