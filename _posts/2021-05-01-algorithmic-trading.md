@@ -56,4 +56,8 @@ EBIT: Earnings before interest and taxes
 
 ### Building Automated Trading System on a Shoestring Budget
 
+### Sentiment Analysis
+
+
+
 
