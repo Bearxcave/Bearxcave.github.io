@@ -15,10 +15,6 @@ tags:
 
 * MACD: Moving average convergence divergence
 
-```python
-import 
-```
-
 * ATR: Actual true range
 
 * Bollinger Bands
@@ -58,6 +54,8 @@ EBIT: Earnings before interest and taxes
 
 ### Sentiment Analysis
 
+* Machine-learning
 
+* Lexicon based analysis
 
 
