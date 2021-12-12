@@ -54,7 +54,7 @@ EBIT: Earnings before interest and taxes
 
 ### Sentiment Analysis
 
-* Machine-learning
+* Machine learning based
 
 * Lexicon based analysis
 
