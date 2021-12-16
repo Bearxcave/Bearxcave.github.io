@@ -18,6 +18,12 @@ tags:
 
 ### Convolutional Neural Networks
 
+* Convolution
+* Pooling: maxpool
+* Flattening
+* Full connection hiddenlayer
+* Output layer
+
 ### Recurrent Neural Networks
 
 ### Self Organizing Maps
