@@ -26,6 +26,8 @@ tags:
 
 ### Recurrent Neural Networks
 
+* Vanishing gradient problem:
+
 ### Self Organizing Maps
 
 ### Boltzmann Machines
