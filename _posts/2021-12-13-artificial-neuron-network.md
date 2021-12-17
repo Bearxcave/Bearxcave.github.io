@@ -37,7 +37,8 @@ tags:
             * Echo state networks
             * Long short-term memory (LSTM)
 
-* LSTM:
+* LSTM (see more details in [Colah's blog](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)): \
+  ![LSTM schematic diagram](https://colah.github.io/posts/2015-08-Understanding-LSTMs/img/LSTM3-chain.png)
 
 ### Self Organizing Maps
 
