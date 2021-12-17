@@ -42,6 +42,10 @@ tags:
 
 ### Self Organizing Maps
 
+* Analogous: K-means clustering
+
+* 
+
 ### Boltzmann Machines
 
 ### AutoEncoders
