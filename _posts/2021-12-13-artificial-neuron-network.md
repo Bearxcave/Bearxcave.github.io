@@ -38,8 +38,8 @@ tags:
             * Long short-term memory (LSTM)
 
 * LSTM (see more details in [Colah's blog](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)): \
-  ![LSTM schematic diagram](https://colah.github.io/posts/2015-08-Understanding-LSTMs/img/LSTM3-chain.png)
-  <img src="https://colah.github.io/posts/2015-08-Understanding-LSTMs/img/LSTM3-chain.png" alt="LSTM schematic diagram" width="100"/>
+<!--   ![LSTM schematic diagram](https://colah.github.io/posts/2015-08-Understanding-LSTMs/img/LSTM3-chain.png) -->
+  <img src="https://colah.github.io/posts/2015-08-Understanding-LSTMs/img/LSTM3-chain.png" alt="LSTM schematic diagram" height="200"/>
 
 ### Self Organizing Maps
 
