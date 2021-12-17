@@ -28,6 +28,8 @@ tags:
 
 * Vanishing gradient problem:
 
+* Long short-term memory (LSTM):
+
 ### Self Organizing Maps
 
 ### Boltzmann Machines
