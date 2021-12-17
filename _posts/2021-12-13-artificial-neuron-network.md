@@ -26,9 +26,18 @@ tags:
 
 ### Recurrent Neural Networks
 
-* Vanishing gradient problem:
+* Vanishing gradient problem
+    - Solutions:
+        1. Exploding gradient:
+            * Truncated backpropagation
+            * Penalties
+            * Gradient clipping
+        2. Vanishing gradient:
+            * Weight initialization
+            * Echo state networks
+            * Long short-term memory (LSTM)
 
-* Long short-term memory (LSTM):
+* LSTM:
 
 ### Self Organizing Maps
 
