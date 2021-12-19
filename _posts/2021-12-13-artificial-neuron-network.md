@@ -48,5 +48,10 @@ tags:
 
 ### Boltzmann Machines
 
+* Energy-based model (EBM):
+* Restricted Boltzmann machine (RBM):
+* Contrastive divergence (CD):
+* Deep belief network (DBN):
+
 ### AutoEncoders
 
