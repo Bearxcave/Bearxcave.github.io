@@ -49,9 +49,36 @@ FROM table1 RIGHT OUTER JOIN/RIGHT JOIN table2 ON table1.column_match = table2.c
 SELECT columns FROM table1
 UNION
 SELECT columns FROM table2;
+
+SELECT t1.col, t2.col FROM table AS t1 JOIN table as t2 ON t1.some_col = t2.other_col;
 ```
 
-* Operation:
+* Databases operations:
+
+```
+CREATE TABLE table_name(
+    column_name TYPE column_constraints,
+    column_name TYPE column_constraints,
+    table_constraint table_constraint
+)INHERITS existing_table_name;
+
+TYPE: SERIAL, CHAR(), VARCHAR(), INTEGER
+
+INSERT INTO table(column1, column2, ...)
+VALUE (value1, value2, ...), (value1, value2, ...), ...;
+INSERT INTO table1(column1, column2, ...)
+SELECT column1, column2, ... FROM table2 WHERE conditions;
+
+UPDATE table SET column1 = value1, column2 = value2, ... WHERE conditions;
+
+DELETE FROM table WHERE conditions; -- delete rows
+
+ALTER TABLE table DROP COLUMN column1;
+ALTER TABLE table ALTER COLUMN column1 SET value;
+DROP TABLE table;
+```
+
+* Value operation:
 
 ```
 AND OR NOT
