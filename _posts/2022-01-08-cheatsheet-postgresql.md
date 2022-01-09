@@ -53,7 +53,7 @@ SELECT columns FROM table2;
 SELECT t1.col, t2.col FROM table AS t1 JOIN table as t2 ON t1.some_col = t2.other_col;
 ```
 
-* Databases operations:
+* Database operations:
 
 ```
 CREATE TABLE table_name(
@@ -78,7 +78,7 @@ ALTER TABLE table ALTER COLUMN column1 SET value;
 DROP TABLE table;
 ```
 
-* Value operation:
+* Value operations:
 
 ```
 AND OR NOT
