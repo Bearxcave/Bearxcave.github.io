@@ -15,13 +15,43 @@ tags:
 * Fundamental:
 
 ```
-SELECT * FROM table1
+SELECT * FROM table1;
+SELECT column1, column2 FROM table1;
+SELECT DISTINCT column1 FROM table1;
+
+SELECT COUNT(*) FROM table1;
+SELECT COUNT(column1) FROM table1;
+
 SELECT column1, column2 FROM table1
-SELECT DISTINCT column1 FROM table1
+WHERE conditions;
 
-SELECT count(*) FROM table1
-SELECT count(column1) FROM table1
+SELECT column1, column2 FROM table1
+ORDER BY column1 ASC/DESC
+LIMIT number_of_line;
 
-
+SELECT category_col, AGGREGATION_FUNCTION(data_col) FROM table1
+WHERE category_conditions
+GROUP BY category_col
+HAVING data_aggregation_conditions
 ```
 
+* Operation:
+
+```
+AND OR NOT
+
+value >= low AND value <= high
+value BETWEEN low AND high
+value < low AND value > high
+value NOT BETWEEN low AND high
+
+value IN (option1, option2, ...)
+
+string LIKE/ILIKE string_pattern -- ILIKE is case insensitive, string_pattern can be something like '%boy_'
+```
+
+* Aggregation function:
+
+```
+AVG() COUNT() MAX() MIN() SUM()
+```
