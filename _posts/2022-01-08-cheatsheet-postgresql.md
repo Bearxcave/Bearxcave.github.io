@@ -64,6 +64,11 @@ value NOT BETWEEN low AND high
 value IN (option1, option2, ...)
 
 string LIKE/ILIKE string_pattern -- ILIKE is case insensitive, string_pattern can be something like '%boy_'
+
+TIMEZONE NOW() TIMEOFDAY() CURRENT_DATE CURRENT_TIME
+EXTRACT(YEAR/MONTH/DAY/WEEK/QUARTER FROM date_col)
+AGE(date_col)
+TO_CHAR(data_col, 'mm-dd-yyyy')
 ```
 
 * Aggregation function:
