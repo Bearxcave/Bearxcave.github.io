@@ -33,10 +33,23 @@ LIMIT number_of_line;
 SELECT category_col, AGGREGATION_FUNCTION(data_col) FROM table1
 WHERE category_conditions
 GROUP BY category_col
-HAVING data_aggregation_conditions
+HAVING data_aggregation_conditions;
 ```
 
-* Join:
+* Joins:
+
+```
+SELECT columns, table1.column_match, table2.column_match
+FROM table1 INNER JOIN table2 ON table1.column_match = table2.column_match;
+FROM table1 FULL OUTER JOIN table2 ON table1.column_match = table2.column_match;
+FROM table1 FULL OUTER JOIN table2 ON table1.column_match = table2.column_match WHERE table1.id IS null OR table2.id IS null;
+FROM table1 LEFT OUTER JOIN/LEFT JOIN table2 ON table1.column_match = table2.column_match;
+FROM table1 RIGHT OUTER JOIN/RIGHT JOIN table2 ON table1.column_match = table2.column_match;
+
+SELECT columns FROM table1
+UNION
+SELECT columns FROM table2;
+```
 
 * Operation:
 
