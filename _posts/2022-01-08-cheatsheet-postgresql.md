@@ -19,8 +19,9 @@ SELECT * FROM table1;
 SELECT column1, column2 FROM table1;
 SELECT DISTINCT column1 FROM table1;
 
-SELECT COUNT(*) FROM table1;
-SELECT COUNT(column1) FROM table1;
+SELECT AGGREGATION_FUNCTION(*) FROM table1;
+SELECT AGGREGATION_FUNCTION(column1) FROM table1;
+SELECT AGGREGATION_FUNCTION(column1)/column1 AS new_name_col FROM table1;
 
 SELECT column1, column2 FROM table1
 WHERE conditions;
@@ -34,6 +35,8 @@ WHERE category_conditions
 GROUP BY category_col
 HAVING data_aggregation_conditions
 ```
+
+* Join:
 
 * Operation:
 
