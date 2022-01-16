@@ -55,3 +55,7 @@ tags:
 
 ### AutoEncoders
 
+### References
+
+1. [Deep learning lecture (NYU)](https://atcold.github.io/pytorch-Deep-Learning/)
+
