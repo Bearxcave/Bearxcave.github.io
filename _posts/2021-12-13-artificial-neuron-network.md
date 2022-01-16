@@ -64,4 +64,5 @@ References:
 ### References
 
 1. [Deep learning lecture (NYU)](https://atcold.github.io/pytorch-Deep-Learning/)
+2. [UvA Deep Learning Tutorials](https://uvadlc-notebooks.readthedocs.io/en/latest/index.html)
 
