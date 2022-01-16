@@ -12,6 +12,12 @@ tags:
     - machine learning
 ---
 
+### Gradient Descent Optimization Algorithms
+
+References:
+1. [An overview of gradient descent optimization algorithms](https://ruder.io/optimizing-gradient-descent/)
+2. [Various update equations](https://www.sravikiran.com/GSOC18/page2/)
+
 ### Artificial Neural Network
 
 * Activation function
