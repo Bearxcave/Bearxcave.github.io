@@ -55,6 +55,12 @@ Bias variance trade-off:
 * underfitting: high bias, low variance
 * overfitting: low bias, high variance
 
+### Gradient Descent Optimization Algorithms
+
+References:
+1. (An overview of gradient descent optimization algorithms)[https://ruder.io/optimizing-gradient-descent/]
+2. (Various update equations)[https://www.sravikiran.com/GSOC18/page2/]
+
 ### Linear Regression
 
 ### Logistic Regression
