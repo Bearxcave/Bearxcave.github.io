@@ -12,7 +12,7 @@ tags:
 
 ### Adjektiv
 
-* Männlichkeit
+* Genus
   
 |      | <span style="color:blue">Maskulin<span> | <span style="color:green">Neutrum<span> | <span style="color:red">Feminin<span> | <span style="color:orange">Mehrzahl<span> |
 | ---- | ---- | ---- | ---- | ---- |
@@ -22,20 +22,16 @@ tags:
 | Gen. | <span style="color:blue">des + -en <br> eines + -en <br> -- + -en<span> | <span style="color:green">des + -en <br> eines + -en <br> -- + -en<span> | <span style="color:red">der + -en <br> einer + -en <br> -- + -er<span> | <span style="color:orange">der + -en <br> einer + -en <br> -- + -er<span> |
 |      | Kategorie | Der-Wörter:<br>der,die,das,den,<br>dem,des,dieser,<br>alle,jeder,jener,<br>welcher,manche,<br>solche & beide | Ein-Wörter:<br>ein,kein,mein,<br>dein,sein,ihr,<br>unser,euer,Ihr | Nullartikel:<br>viel,etwas,viele,<br>wenig,einige,#s |
 
-* Komparativ & Superlativ
-  
-  schnell - schneller - am schnellsten
-  
-  das schnelle Auto - das schnellere Auto - das schnellste Auto
+* Komparativ: schnell - schneller - am schnellsten
 
-* Partizip I & II
-  
-  Partizip I: Infinitiv + D (zB, das lachende Baby)
-  
-  Partizip II: ge-stem-t (Perfekt form, zB, die vermisste Katze). Adverb + Partizip II (zB, Mein Sohn nimmt das <u>frisch gebackene</u> Brot aus dem Ofen).
+  Superlativ: das schnelle Auto - das schnellere Auto - das schnellste Auto
 
-* When to remove/add E
+* Partizip I: Infinitiv + D (zB, das lachende Baby)
+  
+  Partizip II: ge-stem-t (Perfekt form, zB, die vermisste Katze)
 
-  Remove E when end with -er or -el: teuer - teurer - am teuersten; euer - eure - eurem
+  Adverb + Partizip II (zB, Mein Sohn nimmt das <u>frisch gebackene</u> Brot aus dem Ofen)
+
+* Remove E when end with -er or -el: teuer - teurer - am teuersten; euer, eure, eurem
 
   Add E when last letter is -d, -ß, -sch, -t, -tz, -x, or -z: süß - süßer - am süßesten
