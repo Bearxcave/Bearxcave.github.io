@@ -12,7 +12,7 @@ tags:
 
 ### Verb
 
-* Untrennbares Präfix: be-,
+* Untrennbares Präfix: be-, ent- (often translated as un-, de-, dis-), 
 
 | be- |  |  |  |
 | ---- | ---- | ---- | ---- |
@@ -22,7 +22,15 @@ tags:
 | begehen<br>commit (an act) | begreifen<br>comprehend | begrüßen<br>welcome, greet | beheizen<br>heat |
 | beherrschen<br>control | bekämpfen<br>fight against | beschenken<br>give presents to | beschuldigen<br>accuse |
   
-  zB, Er antwortet mir nicht. - Er beantwortet die Frage nicht.
+zB, Er antwortet mir nicht. - Er beantwortet die Frage nicht.
+
+| ent- |  |  |  |
+| ---- | ---- | ---- | ---- |
+| entdecken<br>discover | enteilen<br>hurry away | entfernen<br>remove, extract | entfolgen<br>unfollow |
+| entfremden<br>alienate | entfärben<br>bleach, decolor | entführen<br>kidnap | entgiften<br>detox |
+| enthaaren<br>remove hair | entkräften<br>weaken | entnehmen<br>extract, withdraw | entrosten<br>remove rust |
+| entschädigen<br>compensate, reimburse | entschärfen<br>alleviate | entwaffnen<br>disarm |
+| entsetzen<br>relieve | entsichern<br>unlock | entstehen<br>emerge | entzaubern<br>disenchant |
 
 ### Adjektiv
 
