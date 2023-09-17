@@ -80,13 +80,19 @@ zB, Er antwortet mir nicht. - Er beantwortet die Frage nicht.
 
 * Modalverben
 
-| wir, sie, Sie | mögen | möchten | müssen | dürfen | können | sollen | wollen | werden |
+| wir, s(S)ie | mögen | möchten | müssen | dürfen | können | sollen | wollen | werden |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| English | like | 'd like | must<br>have to | may, allowed | can<br>be able to | should<br>shall | want | will<br>become |
+| English | like | 'd like | must<br>have to | may, allowed | can<br>be able | should<br>shall | want | will<br>become |
 | ich       | mag   | möchte   | muss  | darf   | kan<b>n</b> | soll   | will   | werde  |
 | du        | magst | möchtest | must  | darfst | kannst | sollst | willst | wirst  |
 | er,es,sie | mag   | möchte   | muss  | darf   | kann   | soll   | will   | wird   |
 | ihr       | mögt  | möchtet  | müsst | dürft  | könnt  | sollt  | willt  | werdet |
+
+### Präposition
+
+| Akk. | <-wohin (direction); wo (location)-> | Dat., woher |
+| ---- | ---- | ---- |
+| bis, durch, für, um, gegen, ohne | an, auf, vor, neben, hinter, in, unter, über, zwischen | ab, aus, außer, bei, gegenüber, mit, nach, zu, von, seit |
 
 ### Adjektiv
 
