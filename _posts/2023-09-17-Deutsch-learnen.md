@@ -124,6 +124,24 @@ zB, Er antwortet mir nicht. - Er beantwortet die Frage nicht.
 | ---- | ---- | ---- |
 | bis, durch, entlang, für, um, gegen, ohne, wieder | an, auf, vor, neben, hinter, in, unter, über, zwischen | ab, aus, außer, bei, gegenüber, mit, nach, zu, von, seit |
 
+### Konjunktion
+
+* koordinierende Konjunktion: und, aber, oder, denn (because, notice that then is "dann"), sondern (but rather + Substantiv), allein (with this exception), doch (however)
+
+  unterordinende Konjunktion, \[Hauptsatz (main clause), Nebensatz (subordinate clause)\]:
+
+  als (when, only with past tense), wenn (if, when), falls (if, in case), ob (whether, if), als ob (as if), obwohl/obgleich/obschon) (althought)
+
+  weil (because), da (because, more formal than "weil"), damit (so that, in order to), so dass (so that, consequently), dass (that clause)
+
+  dadurch ... dass = indem (by means of, in which, while), wohingegen (while, whereas), während (while, during an event), nachdem (after in time), seitdem/seit (since in time), trotzdem (nevertheless, although)
+
+  bevor (before), bis (until), sobald (as soon as), solange (as long as), sooft (as soon as, whenever)
+
+  \[note 1\] bevor (Konjunktion), vor (Präposition), davor (Adverb, in front of), vorher (Adverb, beforehand)
+
+  \[note 2\] seit (Präposition, Konjunktion), seitdem (Konjunktion, Adverb),
+
 ### Adjektiv
 
 * Genus
@@ -149,3 +167,7 @@ zB, Er antwortet mir nicht. - Er beantwortet die Frage nicht.
 * Remove E when end with -er or -el: teuer - teurer - am teuersten; euer, eure, eurem
 
   Add E when last letter is -d, -ß, -sch, -t, -tz, -x, or -z: süß - süßer - am süßesten
+
+### ähnliche Wörter
+
+das Gesicht (face) - die Geschichte (story) - das Gericht (dish, court) - der Bericht (report) - beschichten (coat) - besichtigen (view)
