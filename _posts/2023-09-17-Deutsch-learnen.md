@@ -7,10 +7,11 @@ author:     Bearx
 header-img: img/post-bg-grand-canyon.jpg
 catalog: true
 tags:
+    - Note
     - German
 ---
 
-### Adjective
+### Adjektiv
 
 |      | <span style="color:red">Maskulin<span> | Feminin | Neutrum | Mehrzahl |
 | ---- | ---- |
