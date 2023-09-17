@@ -14,11 +14,8 @@ tags:
 
 |      | <span style="color:blue">Maskulin<span> | <span style="color:red">Feminin<span> | <span style="color:green">Neutrum<span> | <span style="color:orange">Mehrzahl<span> |
 | ---- | ---- | ---- | ---- | ---- |
-| Nom. | <span style="color:blue">der + -e <br> ein + -er <br> -- + -er<span> |
 | ---- | ---- | ---- | ---- | ---- |
-| Akk. |      |
-| ---- | ---- | ---- | ---- | ---- |
-| Dat. | 
-| ---- | ---- | ---- | ---- | ---- |
-| Gen. | 
-| ---- | ---- | ---- | ---- | ---- |
+| Nom. | <span style="color:blue">der + -e <br> ein + -er <br> -- + -er<span> | <span style="color:red">Feminin<span> | <span style="color:green">Neutrum<span> | <span style="color:orange">Mehrzahl<span> |
+| Akk. | <span style="color:blue">der + -e <br> ein + -er <br> -- + -er<span> | <span style="color:red">Feminin<span> | <span style="color:green">Neutrum<span> | <span style="color:orange">Mehrzahl<span> |
+| Dat. | <span style="color:blue">der + -e <br> ein + -er <br> -- + -er<span> | <span style="color:red">Feminin<span> | <span style="color:green">Neutrum<span> | <span style="color:orange">Mehrzahl<span> |
+| Gen. | <span style="color:blue">der + -e <br> ein + -er <br> -- + -er<span> | <span style="color:red">Feminin<span> | <span style="color:green">Neutrum<span> | <span style="color:orange">Mehrzahl<span> |
