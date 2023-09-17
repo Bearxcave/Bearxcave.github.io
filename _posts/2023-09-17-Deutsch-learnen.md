@@ -83,7 +83,7 @@ zB, Er antwortet mir nicht. - Er beantwortet die Frage nicht.
 | wir, sie, Sie | mögen | möchten | müssen | dürfen | können | sollen | wollen | werden |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | English | like | 'd like | must<br>have to | may, allowed | can<br>be able to | should<br>shall | want | will<br>become |
-| ich       | mag   | möchte   | muss  | darf   | kan<em>n</em> | soll   | will   | werde  |
+| ich       | mag   | möchte   | muss  | darf   | kan<b>n</b> | soll   | will   | werde  |
 | du        | magst | möchtest | must  | darfst | kannst | sollst | willst | wirst  |
 | er,es,sie | mag   | möchte   | muss  | darf   | kann   | soll   | will   | wird   |
 | ihr       | mögt  | möchtet  | müsst | dürft  | könnt  | sollt  | willt  | werdet |
