@@ -1,7 +1,6 @@
 ---
 layout:     post
 title:      Notes to learn German
-subtitle:   Pandas command
 date:       2023-09-17
 author:     Bearx
 header-img: img/post-bg-grand-canyon.jpg
@@ -13,13 +12,13 @@ tags:
 
 ### Adjektiv
 
-|      | <span style="color:red">Maskulin<span> | Feminin | Neutrum | Mehrzahl |
-| ---- | ---- |
-| Nom. | <span style="color:red">der + -e <br> ein + -er <br> -- + -er<span> |
-| ---- | ---- |
+|      | <span style="color:blue">Maskulin<span> | <span style="color:red">Feminin<span> | <span style="color:green">Neutrum<span> | <span style="color:orange">Mehrzahl<span> |
+| ---- | ---- | ---- | ---- | ---- |
+| Nom. | <span style="color:blue">der + -e <br> ein + -er <br> -- + -er<span> |
+| ---- | ---- | ---- | ---- | ---- |
 | Akk. |      |
-| ---- | ---- |
+| ---- | ---- | ---- | ---- | ---- |
 | Dat. | 
-| ---- | ---- |
+| ---- | ---- | ---- | ---- | ---- |
 | Gen. | 
-| ---- | ---- |
+| ---- | ---- | ---- | ---- | ---- |
