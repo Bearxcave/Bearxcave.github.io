@@ -68,6 +68,16 @@ zB, Er antwortet mir nicht. - Er beantwortet die Frage nicht.
 
   Wenn er einkauft, bringt er seinen Hund nicht.
 
+* Modalverben
+
+| wir, s(S)ie | mögen | möchten | müssen | dürfen | können | sollen | wollen | werden |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| English | like | 'd like | must<br>have to | may, allowed | can<br>be able | should<br>shall | want | will<br>become |
+| ich       | mag   | möchte   | muss  | darf   | kan<b>n</b> | soll   | will   | werde  |
+| du        | magst | möchtest | must  | darfst | kannst | sollst | willst | wirst  |
+| er,es,sie | mag   | möchte   | muss  | darf   | kann   | soll   | will   | wird   |
+| ihr       | mögt  | möchtet  | müsst | dürft  | könnt  | sollt  | willt  | werdet |
+
 * Stammwechsel:
 
   a - ä: backen, braten, fahren, fallen, (an-)fangen, gefallen, graben, halten, laden, laufen, lassen, raten, schlafen, schlagen, tragen, wachsen, waschen
@@ -99,16 +109,6 @@ zB, Er antwortet mir nicht. - Er beantwortet die Frage nicht.
   x-y-x: laufen-lief-, heißen-hieß-, rufen-rief-; fangen-fängt-fing-gefangen, hängen-hängt-hing-gehangen
 
   Spezial: gehen-ging-gegangen, kommen-kam-gekommen, stehen-stand-gestanden, tun-tat-getan, werden-wurder-geworden
-
-* Modalverben
-
-| wir, s(S)ie | mögen | möchten | müssen | dürfen | können | sollen | wollen | werden |
-| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| English | like | 'd like | must<br>have to | may, allowed | can<br>be able | should<br>shall | want | will<br>become |
-| ich       | mag   | möchte   | muss  | darf   | kan<b>n</b> | soll   | will   | werde  |
-| du        | magst | möchtest | must  | darfst | kannst | sollst | willst | wirst  |
-| er,es,sie | mag   | möchte   | muss  | darf   | kann   | soll   | will   | wird   |
-| ihr       | mögt  | möchtet  | müsst | dürft  | könnt  | sollt  | willt  | werdet |
 
 * Dativverben: antworten, helfen, gefallen, auffallen, einfallen, ähneln, gleichen, begegnen, entgegnen, ausweichen, beistehen, danken, dienen, drohen, erlauben, erscheinen, fehlen, befehlen, folgen, gehorchen, gehören, gelingen, genügen, geschehen, glauben, glücken, gratulieren, lauschen, munden, passen, passieren, raten, schaden, schmecken, schmeicheln, sich nähern, trauen, vertrauen, weichen, widersprechen, winken
 
