@@ -13,6 +13,7 @@ tags:
 ### Adjektiv
 
 * Männlichkeit
+  
 |      | <span style="color:blue">Maskulin<span> | <span style="color:green">Neutrum<span> | <span style="color:red">Feminin<span> | <span style="color:orange">Mehrzahl<span> |
 | ---- | ---- | ---- | ---- | ---- |
 | Nom. | <span style="color:blue">der + -e <br> ein + -er <br> -- + -er<span> | <span style="color:green">das + -e <br> ein + -es <br> -- + -es<span> | <span style="color:red">die + -e <br> eine + -e <br> -- + -e<span> | <span style="color:orange">die + -en <br> eine + -en <br> -- + -e<span> |
