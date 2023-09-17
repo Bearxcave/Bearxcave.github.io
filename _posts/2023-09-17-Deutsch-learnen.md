@@ -30,6 +30,6 @@ tags:
 
 * Partizip I & II
   
-  Partizip I: Infinitiv + D, z.B., das lachende Baby
+  Partizip I: Infinitiv + D (zB, das lachende Baby)
   
-  Partizip II: ge-stem-t (Perfekt form), z.B., die vermisste Katze
+  Partizip II: ge-stem-t (Perfekt form, zB, die vermisste Katze). Adverb + Partizip II (zB, Mein Sohn nimmt das <u>frisch gebackene</u> Brot aus dem Ofen).
