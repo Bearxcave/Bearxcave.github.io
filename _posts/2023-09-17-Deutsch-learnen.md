@@ -14,7 +14,7 @@ tags:
 
 * Untrennbares Präfix: be-,
 
-|  |  |  |  |
+| be- |  |  |  |
 | ---- | ---- | ---- | ---- |
 | beachten<br>pay attention to, heed | bekommen<br> receive | bedanken<br>thank | beabsichtigen<br>intend |
 | bearbeiten<br>work on | beantworten<br>answer | bedecken<br>cover | bedeuten<br>mean |
