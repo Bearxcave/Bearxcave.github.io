@@ -88,11 +88,19 @@ zB, Er antwortet mir nicht. - Er beantwortet die Frage nicht.
 | er,es,sie | mag   | möchte   | muss  | darf   | kann   | soll   | will   | wird   |
 | ihr       | mögt  | möchtet  | müsst | dürft  | könnt  | sollt  | willt  | werdet |
 
+* Dativverben: antworten, helfen, gefallen, auffallen, einfallen, ähneln, gleichen, begegnen, entgegnen, ausweichen, beistehen, danken, dienen, drohen, erlauben, erscheinen, fehlen, befehlen, folgen, gehorchen, gehören, gelingen, genügen, geschehen, glauben, glücken, gratulieren, lauschen, munden, passen, passieren, raten, schaden, schmecken, schmeicheln, sich nähern, trauen, vertrauen, weichen, widersprechen, winken
+
+  zB, Er gebt mir die Antwort. - Er antwortet mir.
+
+  Ich gebe meinem Vater Hilfe. - Ich helfe meinem Vater.
+
+  Diese Schuhe geben mir Freude. -  Diese Schuhe gefallen mir.
+
 ### Präposition
 
 | Akk. | <-wohin (direction); wo (location)-> | Dat., woher |
 | ---- | ---- | ---- |
-| bis, durch, für, um, gegen, ohne | an, auf, vor, neben, hinter, in, unter, über, zwischen | ab, aus, außer, bei, gegenüber, mit, nach, zu, von, seit |
+| bis, durch, entlang, für, um, gegen, ohne, wieder | an, auf, vor, neben, hinter, in, unter, über, zwischen | ab, aus, außer, bei, gegenüber, mit, nach, zu, von, seit |
 
 ### Adjektiv
 
