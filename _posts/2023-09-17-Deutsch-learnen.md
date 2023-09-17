@@ -12,7 +12,7 @@ tags:
 
 ### Verb
 
-* Untrennbares Präfix: be-, ent- (often translated as un-, de-, dis-), 
+* Untrennbares Präfix: be-, ent- (often translated as un-, de-, dis-), emp-
 
 | be- |  |  |  |
 | ---- | ---- | ---- | ---- |
@@ -31,6 +31,10 @@ zB, Er antwortet mir nicht. - Er beantwortet die Frage nicht.
 | enthaaren<br>remove hair | entkräften<br>weaken | entnehmen<br>extract, withdraw | entrosten<br>remove rust |
 | entschädigen<br>compensate, reimburse | entschärfen<br>alleviate | entwaffnen<br>disarm |
 | entsetzen<br>relieve | entsichern<br>unlock | entstehen<br>emerge | entzaubern<br>disenchant |
+
+| emp- |  |  |  |
+| ---- | ---- | ---- | ---- |
+| empfangen<br>receive | empfehlen<br>recommend | empfinden<br>feel, sense |  |
 
 ### Adjektiv
 
