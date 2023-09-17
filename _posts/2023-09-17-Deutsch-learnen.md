@@ -128,7 +128,7 @@ zB, Er antwortet mir nicht. - Er beantwortet die Frage nicht.
 
 * koordinierende Konjunktion: und, aber, oder, denn (because, notice that then is "dann"), sondern (but rather + Substantiv), allein (with this exception), doch (however)
 
-  unterordinende Konjunktion, \[Hauptsatz (main clause), Nebensatz (subordinate clause)\]:
+* unterordinende Konjunktion, \[Hauptsatz (main clause), Nebensatz (subordinate clause)\]:
 
   als (when, only with past tense), wenn (if, when), falls (if, in case), ob (whether, if), als ob (as if), obwohl/obgleich/obschon) (althought)
 
@@ -140,7 +140,51 @@ zB, Er antwortet mir nicht. - Er beantwortet die Frage nicht.
 
   \[note 1\] bevor (Konjunktion), vor (Präposition), davor (Adverb, in front of), vorher (Adverb, beforehand)
 
-  \[note 2\] seit (Präposition, Konjunktion), seitdem (Konjunktion, Adverb),
+  \[note 2\] seit (Präposition, Konjunktion), seitdem (Konjunktion, Adverb)
+
+* zweiteiliger Konnektor
+
+  entweder ... oder (either ... or)
+
+  weder ... noch (neither ... nor)
+
+  nicht nur ... sondern auch (not only ... but also)
+
+  sowohl ... als auch (as well as)
+
+  einerseits ... andererseits (on one hand ... on the other hand)
+
+  mal ... mal (sometimes ... sometimes)
+
+  teils ... teils (partly ... partly)
+
+  je ... desto/umso (the (more) ... the (more), je + Komparativ + Substantive + Verb, desto/umso + Komparativ + Verb + Substantive)
+
+  ob ... oder (whether ... or)
+
+  zwar ... aber (yeah/it is true that ... but)
+
+* adverbiale Konjunktion
+
+  trotzdem (in spite of that, however), daher (hence, as a result), darun (about that, because), deshalb/deswegen (because, so), somit (so that, in order to), allerdings (all things considered, however), außerdem (besides, in addition, likewise), sonst (otherwise)
+
+  Mehr:
+
+  kopulativ (Konnektor): außerdem, zudem, dazu, daneben, darüber hinaus, desgleichen, ebenso, ferner, weiter, zusätzlich
+
+  Lokal: daneben, darüber, darunter, darwischen
+
+  Temporal: davor, währenddessen, indessen, danach, anschließend
+
+  kausal: folglich, demzufolge, demnach, damit, somit, mithin, also, desweegn, deshalb, daher, nämlich
+
+  konditional & konsekutiv: notfalls, andernfalls, gegebenenfalls, sonst/ansonsten, so, dann
+
+  konzessiv: trotzdem, dennoch, dessen ungeachtet, gleichwohl, immerhin, allerdings, soweiso, nichtsdestoweniger
+
+  spezifizierend: freilich
+
+  adversativ: hingegen, dafür, dagegen, jedoch, doch, dennoch, indes/indessen, allerdings, nur, vielmehr, demgegenüber, stattdessen, einerseits ... anderseits
 
 ### Adjektiv
 
