@@ -33,3 +33,9 @@ tags:
   Partizip I: Infinitiv + D (zB, das lachende Baby)
   
   Partizip II: ge-stem-t (Perfekt form, zB, die vermisste Katze). Adverb + Partizip II (zB, Mein Sohn nimmt das <u>frisch gebackene</u> Brot aus dem Ofen).
+
+* When to remove/add E
+
+  Remove E when end with -er or -el: teuer - teurer - am teuersten; euer - eure - eurem
+
+  Add E when last letter is -d, -ß, -sch, -t, -tz, -x, or -z: süß - süßer - am süßesten
