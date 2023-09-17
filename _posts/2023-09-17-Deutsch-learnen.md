@@ -78,6 +78,28 @@ zB, Er antwortet mir nicht. - Er beantwortet die Frage nicht.
 
   o - ö: stoßen
 
+* Unregelmäßige Verben
+
+  backen - gebacken, einladen - eingeladen, anfangen - angefangen, schlafen - geschlafen, sehen - gesehen, geben - gegeben, fahren - gefahren, essen - gegessen, bekommen - bekommen
+
+  Infinitiv - Präteritum - Partizip 2
+
+  ei-ie-ie: bleiben, entscheiden, leihen, scheinen, schreien (scream), schreiben, steigen; heißen-hieß-geheißen, reiten-ritt-geritten, schneiden-schnitt-geschnitten
+
+  ie-o-o: biegen (bend, kneel), bieten, fliegen, schießen (shoot), schließen, verlieren, ziehen; liegen-lag-gelegen
+
+  i-a-o: beginen, gewinnen, schwimmen, spinnen, sprechen-spricht, sterben-stirbt, treffen-trifft, werfen-wirft; brechen-bricht, helfen-hilft, nehmen-nimmt
+
+  i-a-u: finden, klingen, singen, trinken
+
+  i-a-e: bitten (request), essen-isst, geben-gibt, lesen-liest, sehen-siehst, treten-tritt, sitzen, liegen, vergessen-vergisst, ist-war-gewesen
+
+  a-u-a: fahren, laden, schlagen (hit, strike), tragen, waschen
+
+  x-y-x: laufen-lief-, heißen-hieß-, rufen-rief-; fangen-fängt-fing-gefangen, hängen-hängt-hing-gehangen
+
+  Spezial: gehen-ging-gegangen, kommen-kam-gekommen, stehen-stand-gestanden, tun-tat-getan, werden-wurder-geworden
+
 * Modalverben
 
 | wir, s(S)ie | mögen | möchten | müssen | dürfen | können | sollen | wollen | werden |
