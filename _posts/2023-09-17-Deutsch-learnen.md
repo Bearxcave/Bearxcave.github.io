@@ -58,6 +58,36 @@ zB, Er antwortet mir nicht. - Er beantwortet die Frage nicht.
 
 * trennbares Präfix:
 
+  Ich kaufe noch etwas ein.
+
+  Ich möchte das Obst einkaufen.
+
+  Es ist leicht, im Supermarkt einzukaufen.
+
+  Ich habe das Obst eingekauft.
+
+  Wenn er einkauft, bringt er seinen Hund nicht.
+
+* Stammwechsel:
+
+  a - ä: backen, braten, fahren, fallen, (an-)fangen, gefallen, graben, halten, laden, laufen, lassen, raten, schlafen, schlagen, tragen, wachsen, waschen
+
+  e - i: bergen, verbergen, brechen, essen, flechten, geben, gelten, helfen, messen, nehmen, schmelzen (but not schmerzen), schwellen, sprechen, stechen, treffen, treten, vergessen, werben, werfen
+
+  e - ie: empfehlen, geschehen, lesen, sehen, stehlen
+
+  o - ö: stoßen
+
+* Modalverben
+
+| wir, sie, Sie | mögen | möchten | müssen | dürfen | können | sollen | wollen | werden |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| English | like | 'd like | must<br>have to | may, allowed | can<br>be able to | should<br>shall | want | will<br>become |
+| ich       | mag   | möchte   | muss  | darf   | kan<em>n</em> | soll   | will   | werde  |
+| du        | magst | möchtest | must  | darfst | kannst | sollst | willst | wirst  |
+| er,es,sie | mag   | möchte   | muss  | darf   | kann   | soll   | will   | wird   |
+| ihr       | mögt  | möchtet  | müsst | dürft  | könnt  | sollt  | willt  | werdet |
+
 ### Adjektiv
 
 * Genus
