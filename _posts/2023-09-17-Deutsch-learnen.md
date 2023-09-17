@@ -12,7 +12,7 @@ tags:
 
 ### Verb
 
-* Untrennbares Präfix: be-, ent- (often translated as un-, de-, dis-), emp-, er- (starts the action of the verb, creat verb from adj.), ge-
+* Untrennbares Präfix: be-, ent- (often translated as un-, de-, dis-), emp-, er- (starts the action of the verb, creats verb from adj.), ge-, miss-, ver- (change the direction of the verb, create verb from adj. or noun), zer-
 
 | be- |  |  |  |
 | ---- | ---- | ---- | ---- |
@@ -45,6 +45,18 @@ zB, Er antwortet mir nicht. - Er beantwortet die Frage nicht.
 | ---- | ---- | ---- | ---- |
 | gebieten<br>command, demand | gebrauchen<br>use | gedenken<br>commemorate | gefallen<br>like, enjoy |
 | gehören<br>belong to | genießen<br>enjoy | gestehen<br>confess | geziemen<br>befit (sb), behoove |
+
+| ver- |  |  |  |
+| ---- | ---- | ---- | ---- |
+| verlaufen<br>lost | verhugern<br>starve | versteinern<br>pertrify, turn into stone | vereinfachen<br>simplify |
+| ... |  |  |  |
+
+| zer- |  |  |  |
+| ---- | ---- | ---- | ---- |
+| zerstören<br>destroy | zerteilen<br>cut off | zerbeißen<br>chew, bite into two | zerpflücken<br>pick apart |
+| ... |  |  |  |
+
+* trennbares Präfix:
 
 ### Adjektiv
 
