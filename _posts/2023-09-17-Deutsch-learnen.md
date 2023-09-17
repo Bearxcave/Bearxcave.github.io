@@ -12,13 +12,13 @@ tags:
 
 ### Verb
 
-* Untrennbares Präfix: be-, ent- (often translated as un-, de-, dis-), emp-, er- (starts the action of the verb, creat verb from adj.)
+* Untrennbares Präfix: be-, ent- (often translated as un-, de-, dis-), emp-, er- (starts the action of the verb, creat verb from adj.), ge-
 
 | be- |  |  |  |
 | ---- | ---- | ---- | ---- |
 | beachten<br>pay attention to, heed | bekommen<br> receive | bedanken<br>thank | beabsichtigen<br>intend |
 | bearbeiten<br>work on | beantworten<br>answer | bedecken<br>cover | bedeuten<br>mean |
-| dedrohen<br>to threaten | beflecken<br>taint | befragen<br>question (s.b.) | befreien<br>liberate |
+| dedrohen<br>to threaten | beflecken<br>taint | befragen<br>question (sb) | befreien<br>liberate |
 | begehen<br>commit (an act) | begreifen<br>comprehend | begrüßen<br>welcome, greet | beheizen<br>heat |
 | beherrschen<br>control | bekämpfen<br>fight against | beschenken<br>give presents to | beschuldigen<br>accuse |
   
@@ -40,6 +40,11 @@ zB, Er antwortet mir nicht. - Er beantwortet die Frage nicht.
 | ---- | ---- | ---- | ---- |
 | erlernen<br>learn, acquire | ertrinken<br>drown | erniedrigen<br>humiliate | ergänzen<br>complete |
 | ... |  |  |  |
+
+| ge- |  |  |  |
+| ---- | ---- | ---- | ---- |
+| gebieten<br>command, demand | gebrauchen<br>use | gedenken<br>commemorate | gefallen<br>like, enjoy |
+| gehören<br>belong to | genießen<br>enjoy | gestehen<br>confess | geziemen<br>befit (sb), behoove |
 
 ### Adjektiv
 
